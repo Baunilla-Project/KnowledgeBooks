@@ -1,0 +1,8 @@
+{
+	"name": "Storage Management",
+	"subtitle": "Extra space for items.",
+	"landing_text": "Learn the right way to empty your busy inventory.",
+
+	"book_texture": "knowledgebooks:textures/gui/book/storage_book.png",
+	"model": "knowledgebooks:book/storage_book"
+}

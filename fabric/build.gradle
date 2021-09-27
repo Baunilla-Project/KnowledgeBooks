@@ -16,6 +16,8 @@ dependencies {
     modApi "net.fabricmc.fabric-api:fabric-api:${rootProject.fabric_api_version}"
     // Remove the next line if you don't want to depend on the API
     modApi "me.shedaniel:architectury-fabric:${rootProject.architectury_version}"
+    // Patchouli
+    modImplementation "vazkii.patchouli:Patchouli:${rootProject.patchouli_version}-FABRIC-SNAPSHOT"
 
     implementation(project(path: ":common")) {
         transitive = false

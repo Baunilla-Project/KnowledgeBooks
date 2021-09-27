@@ -1,0 +1,8 @@
+{
+	"name": "Agriculturists Manual",
+	"subtitle": "Crop farming and such",
+	"landing_text": "Farming refers to the systematic production of renewable resources. The technique is typically used to get blocks, food, experience and other desired items. Specific types of farming are listed below.",
+
+	"book_texture": "knowledgebooks:textures/gui/book/agriculture_book.png",
+	"model": "knowledgebooks:book/agriculture_book"
+}

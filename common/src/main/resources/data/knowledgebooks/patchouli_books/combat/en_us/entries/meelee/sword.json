@@ -1,0 +1,22 @@
+{
+	"name": "Sword",
+	"icon": "minecraft:iron_sword",
+	"category": "knowledgebooks:meelee",
+	"advancement": "minecraft:recipes/combat/wooden_sword",
+	"pages": [{
+			"type": "text",
+			"text": "A sword is a melee weapon, that is mainly used to deal damage to mobs and/or players. Swords are also useful for mining cobwebs and bamboo."
+		}, {
+			"type": "crafting",
+			"recipe": "minecraft:wooden_sword",
+			"recipe2": "minecraft:stone_sword"
+		}, {
+			"type": "crafting",
+			"recipe": "minecraft:iron_sword",
+			"recipe2": "minecraft:golden_sword"
+		}, {
+			"type": "crafting",
+			"recipe": "minecraft:diamond_sword"
+		}
+	]
+}

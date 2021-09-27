@@ -1,0 +1,8 @@
+{
+	"name": "Nether Wastes",
+	"subtitle": "The Nether dimension",
+	"landing_text": "The Nether is a dangerous hell-like dimension filled with fire, lava, fungus-based vegetation, and many hostile mobs.",
+
+	"book_texture": "knowledgebooks:textures/gui/book/the_nether_book.png",
+	"model": "knowledgebooks:book/the_nether_book"
+}

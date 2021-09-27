@@ -1,0 +1,20 @@
+{
+	"name": "Chestplate",
+	"icon": "minecraft:iron_chestplate",
+	"category": "knowledgebooks:armors",
+	"advancement": "minecraft:recipes/combat/leather_chestplate",
+	"sortnum": 1,
+	"pages": [{
+			"type": "text",
+			"text": "Chestplates are a type of armor that covers the upper body of the player."
+		}, {
+			"type": "crafting",
+			"recipe": "minecraft:leather_chestplate",
+			"recipe2": "minecraft:iron_chestplate"
+		}, {
+			"type": "crafting",
+			"recipe": "minecraft:golden_chestplate",
+			"recipe2": "minecraft:diamond_chestplate"
+		}
+	]
+}

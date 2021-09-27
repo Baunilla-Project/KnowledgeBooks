@@ -1,0 +1,14 @@
+{
+	"name": "Spectral Arrow",
+	"icon": "minecraft:spectral_arrow",
+	"category": "knowledgebooks:ranged/arrows",
+	"advancement": "minecraft:recipes/combat/spectral_arrow",
+	"pages": [{
+			"type": "text",
+			"text": "Arrows are ammunition for bows, crossbows and dispensers."
+		}, {
+			"type": "crafting",
+			"recipe": "minecraft:spectral_arrow"
+		}
+	]
+}

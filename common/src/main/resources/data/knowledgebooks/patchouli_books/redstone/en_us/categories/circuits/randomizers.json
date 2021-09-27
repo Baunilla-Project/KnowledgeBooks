@@ -1,0 +1,6 @@
+{
+	"name": "Randomizers",
+	"description": "Randomizers are redstone circuits which generate random signals. They can be used in a multitude of things, from running a light show, to making a casino.",
+	"icon": "minecraft:comparator",
+	"parent": "knowledgebooks:circuits"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Combat Tools",
+	"subtitle": "Weapons, armors and more.",
+	"landing_text": "Learn the best way to protect yourself or deal some damage.",
+
+	"book_texture": "knowledgebooks:textures/gui/book/combat_book.png",
+	"model": "knowledgebooks:book/combat_book"
+}

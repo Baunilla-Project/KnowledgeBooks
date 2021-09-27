@@ -1,0 +1,14 @@
+{
+	"name": "Bow",
+	"icon": "minecraft:bow",
+	"category": "knowledgebooks:ranged",
+	"advancement": "minecraft:recipes/combat/bow",
+	"pages": [{
+			"type": "text",
+			"text": "A bow is a ranged weapon that fires arrows."
+		}, {
+			"type": "crafting",
+			"recipe": "minecraft:bow"
+		}
+	]
+}

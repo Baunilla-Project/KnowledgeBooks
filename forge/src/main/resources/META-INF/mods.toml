@@ -1,35 +1,42 @@
 modLoader = "javafml"
 loaderVersion = "[35,)"
 #issueTrackerURL = ""
-license = "Insert License Here"
+license = "CC0 1.0 Universal"
 
 [[mods]]
-modId = "examplemod"
+modId = "knowledgebooks"
 version = "${version}"
-displayName = "Example Mod"
-authors = "Me!"
+displayName = "Knowledge Books"
+authors = "VinnyStalck"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+Patchouli books for vanilla.
 '''
 #logoFile = ""
 
-[[dependencies.examplemod]]
+[[dependencies.knowledgebooks]]
 modId = "forge"
 mandatory = true
 versionRange = "[35,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.knowledgebooks]]
 modId = "minecraft"
 mandatory = true
 versionRange = "[1.16.2,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.knowledgebooks]]
 modId = "architectury"
 mandatory = true
 versionRange = "[1.1.55,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.knowledgebooks]]
+modId = "patchouli"
+mandatory = true
+versionRange = "[1.16.4-50,)"
 ordering = "AFTER"
 side = "BOTH"

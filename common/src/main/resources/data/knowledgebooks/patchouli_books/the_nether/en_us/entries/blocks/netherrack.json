@@ -1,0 +1,17 @@
+{
+	"name": "Netherrack",
+	"icon": "minecraft:netherrack",
+	"category": "knowledgebooks:blocks",
+	"pages": [{
+		"type": "text",
+		"text": "$(li)Is the most common rock-like block found in ehe Nether. $(li)When netherrack's top is lit on fire, the fire burns indefinitely."
+	}, {
+		"type": "spotlight",
+		"item": "minecraft:netherrack",
+		"title": "Crimson Nylium",
+		"text": "Crimson nylium generates in the $(l:biomes/crimson_forest)crimson forest$(/l) biome"
+	}, {
+		"type":"relations",
+		"entries": ["knowledgebooks:blocks/nylium"]
+	}]
+}

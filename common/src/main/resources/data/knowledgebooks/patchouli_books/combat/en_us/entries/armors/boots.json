@@ -1,0 +1,20 @@
+{
+	"name": "Boots",
+	"icon": "minecraft:iron_boots",
+	"category": "knowledgebooks:armors",
+	"advancement": "minecraft:recipes/combat/leather_boots",
+	"sortnum": 3,
+	"pages": [{
+			"type": "text",
+			"text": "Leggings are a type of armor that covers the lower body of the player. "
+		}, {
+			"type": "crafting",
+			"recipe": "minecraft:leather_boots",
+			"recipe2": "minecraft:iron_boots"
+		}, {
+			"type": "crafting",
+			"recipe": "minecraft:golden_boots",
+			"recipe2": "minecraft:diamond_boots"
+		}
+	]
+}

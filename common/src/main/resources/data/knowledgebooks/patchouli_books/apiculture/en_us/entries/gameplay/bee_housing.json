@@ -1,0 +1,9 @@
+{
+	"name": "Bee Housing",
+	"icon": "minecraft:bee_nest",
+	"category": "knowledgebooks:gameplay",
+	"pages": [{
+		"type": "text",
+		"text": "The $(l:blocks/beehive)hives$(/l) can house up to 3 $(l:mobs/bee)bees$(/l) at a time. Bees fly into the nest at night, during rain, and after pollinating.$(br)Igniting the hive causes all bees inside to escape from it."
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Enderman",
+	"icon": "minecraft:player_head{SkullOwner:\"MHF_Enderman\"}",
+	"category": "knowledgebooks:mobs",
+	"pages": [{
+		"type": "text",
+		"text": "Endermen are tall, black neutral mobs from the End that have the ability to teleport, and pick up blocks."
+	}, {
+		"type": "entity",
+		"entity": "minecraft:enderman",
+		"name": "Enderman",
+		"text": "Endermen spawn naturally throughout the entire dimension."
+	}, {
+		"type": "text",
+		"title": "Behavoir",
+		"text": "Endermen do not attack unless provoked by a player or mob attacking them, or by a player looking them in the eyes from up to 64 blocks away."
+	}]
+}

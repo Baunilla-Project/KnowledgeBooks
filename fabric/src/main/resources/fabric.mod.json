@@ -1,31 +1,36 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "knowledgebooks",
   "version": "${version}",
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Knowledge Books",
+  "description": "Patchouli books for vanilla",
   "authors": [
-    "Me!"
+    "VinnyStalck"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/Baunilla-Project/KnowledgeBooks",
+    "sources": "https://github.com/Baunilla-Project/KnowledgeBooks"
   },
-  "license": "Insert License Here",
-  "icon": "assets/examplemod/icon.png",
+  "license": "CC0 1.0 Universal",
+  "icon": "assets/knowledgebooks/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.examplemod.fabric.ExampleModFabric"
+      "baunilla.knowledgebooks.fabric.KnowledgeBooksFabric"
     ]
   },
   "depends": {
     "fabricloader": ">=0.7.4",
     "fabric": "*",
     "minecraft": ">=1.16.4",
-    "architectury": ">=1.1.55"
+    "architectury": ">=1.1.55",
+    "patchouli": ">=1.16.4-50"
   },
   "suggests": {
-    "flamingo": "*"
-  }
+		"modmenu": "*",
+		"modsoftheworld": "*"
+	},
+	"custom": {
+		"modsoftheworld:splashes": "knowledgebooks:texts/splashes.txt"
+	}
 }

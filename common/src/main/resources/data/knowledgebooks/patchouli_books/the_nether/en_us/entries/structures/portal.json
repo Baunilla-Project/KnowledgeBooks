@@ -1,0 +1,23 @@
+{
+	"name": "Nether Portal",
+	"icon": "minecraft:player_head{SkullOwner:{Id:[I;1426604769,422660010,-1266868929,345461730],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTk3NTIwZTdiNTMxZThiNTYxZWE4ZTg2ZGZkZDkxYTcyYmY5ODMyYmJhZDk0ZTkyMDUxMTQ3ZmU1ZTc3YmZlIn19fQ==\"}]}}}",
+	"category": "knowledgebooks:structures",
+	"advancement": "minecraft:story/form_obsidian",
+	"pages": [{
+		"type": "text",
+		"text": "A nether portal is a manufactured structure that acts as a gateway between the Overworld and Nether dimensions."
+	}, {
+		"type": "multiblock",
+		"multiblock": {
+			"pattern": [
+				["_", "O", "O", "_"],
+				["O", " ", " ", "O"],
+				["O", " ", " ", "O"],
+				["O", " ", "0", "O"],
+				["_", "O", "O", "_"]
+			],
+			"mapping": { "O": "minecraft:obsidian" }
+		},
+		"text": "Materials: 10 Obsidians, Fire source (flit and steel) to activate"
+	}]
+}

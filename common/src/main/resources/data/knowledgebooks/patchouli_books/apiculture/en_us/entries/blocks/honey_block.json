@@ -1,0 +1,17 @@
+{
+	"name": "Honey Block",
+	"icon": "minecraft:honey_block",
+	"category": "knowledgebooks:blocks",
+	"advancement": "minecraft:recipes/decorations/honey_block",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:honey_block",
+			"text": "$(li)Entities touching the side of a honey block slide down slowly.$(li)Takes away some fall damage."
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:honey_block"
+		}
+	]
+}

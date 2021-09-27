@@ -1,0 +1,6 @@
+{
+	"name": "Arrows",
+	"description": "Arrows are ammunition for bows, crossbows and dispensers. They can be modified to imbue status effects on players and mobs.",
+	"icon": "minecraft:arrow",
+	"parent": "knowledgebooks:ranged"
+}

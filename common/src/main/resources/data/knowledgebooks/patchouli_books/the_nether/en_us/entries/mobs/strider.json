@@ -1,0 +1,17 @@
+{
+	"name": "Strider",
+	"icon": "minecraft:player_head{SkullOwner:{Id:[I;-775750743,1714636325,-1663400664,-85524983],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMThhOWFkZjc4MGVjN2RkNDYyNWM5YzA3NzkwNTJlNmExNWE0NTE4NjY2MjM1MTFlNGM4MmU5NjU1NzE0YjNjMSJ9fX0=\"}]}}}",
+	"category": "knowledgebooks:mobs",
+	"pages": [{
+		"type": "text",
+		"text": "Striders are passive mobs that spawn in the Nether striding on lava seas. They can walk/stride on lava and be saddled by the player. A warped fungus on a stick is needed to properly direct a strider."
+	}, {
+		"type": "entity",
+		"entity": "minecraft:strider",
+		"name": "Aparence"
+	}, {
+		"type": "text",
+		"title": "Spawning",
+		"text": "2 to 4 striders spawn in the Nether on spaces of lava that are two blocks tall with an air block above. Because striders are passive mobs, spawning attempts are made every 400 game ticks (20 seconds)."
+	}]
+}

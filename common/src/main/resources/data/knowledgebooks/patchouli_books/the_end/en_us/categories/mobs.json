@@ -1,0 +1,5 @@
+{
+	"name": "Mobs",
+	"description": "Mobs from The End",
+	"icon": "minecraft:player_head{SkullOwner:\"MHF_Enderman\"}"
+}

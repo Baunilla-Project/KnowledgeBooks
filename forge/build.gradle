@@ -19,6 +19,8 @@ dependencies {
     forge "net.minecraftforge:forge:${rootProject.minecraft_version}-${rootProject.forge_version}"
     // Remove the next line if you don't want to depend on the API
     modApi "me.shedaniel:architectury-forge:${rootProject.architectury_version}"
+    // Patchouli
+    modImplementation "vazkii.patchouli:Patchouli:${rootProject.patchouli_version}-SNAPSHOT"
 
     implementation(project(path: ":common")) {
         transitive = false

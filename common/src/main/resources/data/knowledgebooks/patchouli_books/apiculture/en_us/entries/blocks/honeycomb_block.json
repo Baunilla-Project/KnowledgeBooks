@@ -1,0 +1,17 @@
+{
+	"name": "Honeycomb Block",
+	"icon": "minecraft:honeycomb_block",
+	"category": "knowledgebooks:blocks",
+	"advancement": "minecraft:recipes/decorations/honeycomb_block",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:honeycomb_block",
+			"text": "Decorative block."
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:honeycomb_block"
+		}
+	]
+}

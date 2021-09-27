@@ -1,0 +1,14 @@
+{
+	"name": "Arrow",
+	"icon": "minecraft:arrow",
+	"category": "knowledgebooks:ranged/arrows",
+	"advancement": "minecraft:recipes/combat/arrow",
+	"pages": [{
+			"type": "text",
+			"text": "Arrows are ammunition for bows, crossbows and dispensers."
+		}, {
+			"type": "crafting",
+			"recipe": "minecraft:arrow"
+		}
+	]
+}

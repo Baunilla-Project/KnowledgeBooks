@@ -1,0 +1,8 @@
+{
+	"name": "Redstone Engineering",
+	"subtitle": "Redstone mechanisms",
+	"landing_text": "Learn from the basics to advanced of redstone machinery.",
+
+	"book_texture": "knowledgebooks:textures/gui/book/redstone_book.png",
+	"model": "knowledgebooks:book/redstone_book"
+}
