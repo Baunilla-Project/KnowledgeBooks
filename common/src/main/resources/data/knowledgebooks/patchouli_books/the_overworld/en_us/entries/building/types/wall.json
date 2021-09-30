@@ -1,0 +1,10 @@
+{
+	"name": "Wall",
+	"icon": "minecraft:cobblestone_wall",
+	"category": "knowledgebooks:building/types",
+	"pages": [{
+		"type": "spotlight",
+		"item": "minecraft:cobblestone_wall",
+		"text": "$(l)Slabs$() are half-height versions of their respective blocks. "
+	}]
+}

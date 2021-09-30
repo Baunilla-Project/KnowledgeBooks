@@ -1,0 +1,22 @@
+{
+	"name": "Bucket",
+	"icon": "minecraft:bucket",
+	"category": "knowledgebooks:tools",
+	"sortnum": "5",
+	"advancement": "minecraft:story/smelt_iron",
+	"pages": [
+		{
+			"type": "text",
+			"text": "$(l)Buckets$() are $(l:tools/tool)tools$() used to carry water, lava, milk and fish (cod, pufferfish, salmon, and tropical fish)"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:bucket"
+		},{
+			"type": "quest",
+			"trigger": "minecraft:story/lava_bucket",
+			"title": "Hot Stuff",
+			"text": "Fill a bucket with lava. $(br2)Have a lava bucket in your inventory. "
+		}
+	]
+}

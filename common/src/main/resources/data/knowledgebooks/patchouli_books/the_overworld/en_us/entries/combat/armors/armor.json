@@ -1,0 +1,21 @@
+{
+	"name": "Armor",
+	"icon": "minecraft:iron_chestplate",
+	"category": "knowledgebooks:combat/armors",
+	"sortnum": "1",
+	"turnin": "minecraft:story:obtain_armor",
+	"advancement": "minecraft:story/root",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Armor pieces include several different tiers of $(l:combat/armors/helmet)helmets$(), $(l:combat/armors/chestplate)chestplates$(), $(l:combat/armors/leggings)leggings$(), and $(l:combat/armors/boot)boots$(), which can each be placed in designated armor slots of a player's inventory for use."
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/obtain_armor",
+			"advancement": "minecraft:story:smelt_iron",
+			"title": "Suit Up",
+			"text": "Protect yourself with a piece of iron armor "
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Melee Weapons",
+	"description": "Melee weapons can be held while punching to deal extra damage, but with a longer attack time than punching. (attack time is a cooldown time for a weapon) ",
+	"icon": "minecraft:stone_sword",
+	"sortnum": "1",
+	"parent": "knowledgebooks:combat"
+}

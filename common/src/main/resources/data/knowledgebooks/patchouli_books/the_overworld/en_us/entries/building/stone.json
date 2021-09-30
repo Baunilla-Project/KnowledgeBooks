@@ -1,0 +1,32 @@
+{
+	"name": "Stone",
+	"icon": "minecraft:stone",
+	"category": "knowledgebooks:building",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:stone",
+			"text": "$(l)Stone$() is a block found underground in the Overworld or on the surface of mountains. "
+		},
+		{
+			"type": "smelting",
+			"advancement": "minecraft:story/mine_stone",
+			"recipe": "minecraft:stone"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:stone_slab",
+			"recipe2": "minecraft:stone_stairs"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:stone_bricks"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:building/cobblestone"
+			]
+		}
+	]
+}

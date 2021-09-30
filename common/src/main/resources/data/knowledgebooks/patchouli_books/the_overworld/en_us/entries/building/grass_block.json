@@ -1,0 +1,20 @@
+{
+	"name": "Grass Block",
+	"icon": "minecraft:grass_block",
+	"category": "knowledgebooks:building",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:grass_block",
+			"text": "A $(l)grass block$() is a natural block that generates abundantly across the surface of the Overworld. "
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:building/dirt",
+				"knowledgebooks:building/mycelium",
+				"knowledgebooks:building/podzol"
+			]
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Axe",
+	"icon": "minecraft:iron_axe",
+	"category": "knowledgebooks:tools",
+	"sortnum": "3",
+	"advancement": "minecraft:story/root",
+	"pages": [
+		{
+			"type": "text",
+			"text": "An $(l)axe$() is a $(l:tools/tool)tool$() mainly used to hasten the breaking of wood-based blocks, remove the surface layer of certain blocks, and as a melee weapon. "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:wooden_axe",
+			"recipe2": "minecraft:stone_axe"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:iron_axe",
+			"recipe2": "minecraft:golden_axe"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond_axe"
+		}
+	]
+}

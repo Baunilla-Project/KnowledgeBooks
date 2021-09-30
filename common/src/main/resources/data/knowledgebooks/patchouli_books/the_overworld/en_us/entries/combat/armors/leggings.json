@@ -1,0 +1,27 @@
+{
+	"name": "Leggings",
+	"icon": "minecraft:leather_leggings",
+	"category": "knowledgebooks:combat/armors",
+	"sortnum": "4",
+	"advancement": "minecraft:story/root",
+	"pages": [
+		{
+			"type": "text",
+			"text": "$(l)Leggings$() are a type of $(l:combat/armors/armor)armor$() that covers the lower body of the player."
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:leather_leggings",
+			"recipe2": "minecraft:chainmail_leggings"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:iron_leggings",
+			"recipe2": "minecraft:golden_leggings"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond_leggings"
+		}
+	]
+}

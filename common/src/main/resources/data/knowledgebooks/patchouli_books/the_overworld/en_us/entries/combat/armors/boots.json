@@ -1,0 +1,27 @@
+{
+	"name": "Boots",
+	"icon": "minecraft:leather_boots",
+	"category": "knowledgebooks:combat/armors",
+	"sortnum": "5",
+	"advancement": "minecraft:story/root",
+	"pages": [
+		{
+			"type": "text",
+			"text": "$(l)Boots$() are a type of $(l:combat/armors/armor)armor$() that covers the feet of the player. "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:leather_boots",
+			"recipe2": "minecraft:chainmail_boots"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:iron_boots",
+			"recipe2": "minecraft:golden_boots"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond_boots"
+		}
+	]
+}

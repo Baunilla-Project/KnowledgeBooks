@@ -1,0 +1,6 @@
+{
+	"name": "Potions",
+	"description": "",
+	"icon": "minecraft:potion",
+	"parent": "knowledgebooks:brewing"
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Ranged Weapons",
+	"description": "Ranged weapons are not as effective in close combat, but they are effective at attacking enemies from a distance. ",
+	"icon": "minecraft:bow",
+	"sortnum": "2",
+	"parent": "knowledgebooks:combat"
+}

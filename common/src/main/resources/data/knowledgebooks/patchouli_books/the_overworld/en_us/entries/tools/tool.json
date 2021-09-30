@@ -1,0 +1,26 @@
+{
+	"name": "Tool",
+	"icon": "minecraft:crafting_table",
+	"category": "knowledgebooks:tools",
+	"sortnum": "1",
+	"turnin": "minecraft:story/mine_stone",
+	"advancement": "minecraft:story/root",
+	"pages": [
+		{
+			"type": "text",
+			"text": "A $(l)tool$() is an item used by the player while held to perform actions faster and more efficiently, to gather materials not obtainable by hand, to gain information, or to perform completely new actions. With the exception of the $(l:tools/clock)clock$(), $(l:tools/compass)compass$(), empty $(l:tools/bucket)bucket$(), and $(l:tools/lead)lead$(), tools do not stack in the inventory. Tools can be repaired. "
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/mine_stone",
+			"title": "Stone Age",
+			"text": "Mine stone with your new $(l:tools/pickaxe)pickaxe$(). $(br2)Have $(l:building/cobblestone)cobblestone$() in your inventory."
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:tools/pickaxe"
+			]
+		}
+	]
+}

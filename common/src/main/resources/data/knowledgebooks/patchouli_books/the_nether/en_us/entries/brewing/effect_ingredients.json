@@ -1,0 +1,22 @@
+{
+	"name": "Effect Ingredients",
+	"icon": "minecraft:rabbit_foot",
+	"category": "knowledgebooks:brewing",
+	"pages": [{
+		"type": "text",
+		"text": "$(l)Base ingredients$() are ingredients that can be added directly to a water bottle and are the starting point of all potions. Nether wart is the most fundamental of the base ingredients, as it is required to make the vast majority of potions."
+	}, {
+		"type": "spotlight",
+		"item": "minecraft:nether_wart",
+		"title": "Nether Wart",
+		"text": "Allows the creation of more complex potions."
+	}, {
+		"type": "spotlight",
+		"item": "minecraft:nether_wart",
+		"title": "Nether Wart",
+		"text": "Allows the creation of more complex potions."
+	}, {
+		"type":"relations",
+		"entries": ["knowledgebooks:items/nether_wart"]
+	}]
+}

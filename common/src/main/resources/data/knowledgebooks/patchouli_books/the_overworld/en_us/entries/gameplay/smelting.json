@@ -1,0 +1,26 @@
+{
+	"name": "Smelting",
+	"icon": "minecraft:furnace",
+	"category": "knowledgebooks:gameplay",
+	"sortnum": "3",
+	"turnin": "minecraft:story/smelt_iron",
+	"advancement": "minecraft:story/mine_stone",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Smelting is a method of obtaining refined goods from raw materials by heating in a $(l:utility/furnace)furnace$(), $(l:utility/blast_furnace)blast furnace$(), or $(l:utility/smoker)smoker$(). For example, iron ore can be smelted to produce iron ingots using coal as fuel. Like crafting, smelting uses recipes to determine what item is produced, but its recipes are simpler. Smelting also yields experience. "
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/smelt_iron",
+			"title": "Acquire Hardware",
+			"text": "Smelt an &(l:misc/iron_ingot)iron ingot&(). $(br2)Have an iron ingot in your inventory."
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:utility/furnace"
+			]
+		}
+	]
+}

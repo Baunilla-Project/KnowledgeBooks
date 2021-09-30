@@ -1,0 +1,28 @@
+{
+	"name": "Cobblestone",
+	"icon": "minecraft:cobblestone",
+	"category": "knowledgebooks:building",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:cobblestone",
+			"link_recipe": true,
+			"text": "$(l)Cobblestone$() is a common block, obtained from mining $(l:building/stone)stone$(). It is mainly used for $(l:gameplay/crafting)crafting$() or as building block. "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:cobblestone_slab",
+			"recipe2": "minecraft:cobblestone_stairs"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:cobblestone_wall"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:building/stone"
+			]
+		}
+	]
+}

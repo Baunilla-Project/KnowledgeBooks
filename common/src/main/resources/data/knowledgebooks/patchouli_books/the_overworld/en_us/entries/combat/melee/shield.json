@@ -1,0 +1,25 @@
+{
+	"name": "Shield",
+	"icon": "minecraft:shield",
+	"category": "knowledgebooks:combat/melee",
+	"sortnum": "2",
+	"turnin": "minecraft:story/deflect_arrow",
+	"advancement": "minecraft:story/smelt_iron",
+	"pages": [
+		{
+			"type": "text",
+			"text": "A $(l)shield$() is a tool used for protecting the player against attacks. "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:shield"
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/deflect_arrow",
+			"advancement": "minecraft:story/obtain_armor",
+			"title": "Not Today, Thank You",
+			"text": "Block a projectile using your shield. $(br2)Block any projectile with a shield. "
+		}
+	]
+}

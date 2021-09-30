@@ -1,0 +1,32 @@
+{
+	"name": "Helmet",
+	"icon": "minecraft:leather_helmet",
+	"category": "knowledgebooks:combat/armors",
+	"sortnum": "2",
+	"advancement": "minecraft:story/root",
+	"pages": [
+		{
+			"type": "text",
+			"text": "$(l)Helmets$() are a type of armor that covers the head of the player. "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:leather_helmet",
+			"recipe2": "minecraft:chainmail_helmet"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:iron_helmet",
+			"recipe2": "minecraft:golden_helmet"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond_helmet"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:husbandry/breed_an_animal",
+			"recipe": "minecraft:turtle_helmet"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"name": "Block Types",
+	"description": "",
+	"icon": "minecraft:cobblestone_stairs",
+	"parent": "knowledgebooks:building"
+}

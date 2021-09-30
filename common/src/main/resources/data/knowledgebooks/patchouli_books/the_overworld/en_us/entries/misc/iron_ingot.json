@@ -1,0 +1,19 @@
+{
+	"name": "Iron Ingot",
+	"icon": "minecraft:iron_ingot",
+	"category": "knowledgebooks:misc",
+	"turnin": "minecraft:story/iron_tools",
+	"advancement": "minecraft:story/mine_stone",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:iron_ingot",
+			"text": "Iron ingots are versatile metal ingots used extensively in crafting. "
+		},
+		{
+			"type": "smelting",
+			"recipe": "minecraft:iron_ingot",
+			"recipe2": "minecraft:iron_ingot_from_blasting"
+		}
+	]
+}
