@@ -11,13 +11,13 @@
 		},
 		{
 			"type": "crafting",
-			"recipe": "minecraft:leather_helmet",
-			"recipe2": "minecraft:iron_helmet"
+			"recipe": "minecraft:leather_chestplate",
+			"recipe2": "minecraft:iron_chestplate"
 		},
 		{
 			"type": "crafting",
-			"recipe": "minecraft:golden_helmet",
-			"recipe2": "minecraft:diamond_helmet"
+			"recipe": "minecraft:golden_chestplate",
+			"recipe2": "minecraft:diamond_chestplate"
 		}
 	]
 }

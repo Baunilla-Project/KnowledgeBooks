@@ -2,14 +2,20 @@
 	"name": "Crafting Table",
 	"icon": "minecraft:crafting_table",
 	"category": "knowledgebooks:utility",
-	"pages": [{
-		"type": "text",
-		"text": "A $(l)crafting table$() is a utility block that allows the player to $(l:gameplay/crafting)craft$() a variety of blocks and items. "
-	}, {
-		"type": "crafting",
-		"recipe": "minecraft:crafting_table"
-	},{
-		"type":"relations",
-		"entries": ["knowledgebooks:gameplay/crafting"]
-	}]
+	"pages": [
+		{
+			"type": "text",
+			"text": "A $(l)crafting table$() is a utility block that allows the player to $(l:gameplay/crafting)craft$() a variety of blocks and items. "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:crafting_table"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:gameplay/crafting"
+			]
+		}
+	]
 }

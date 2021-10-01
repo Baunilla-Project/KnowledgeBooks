@@ -2,8 +2,7 @@
 	"name": "Iron Nugget",
 	"icon": "minecraft:iron_nugget",
 	"category": "knowledgebooks:misc",
-	"turnin": "minecraft:story/iron_tools",
-	"advancement": "minecraft:story/mine_stone",
+	"advancement": "minecraft:recipes/misc/iron_nugget",
 	"pages": [
 		{
 			"type": "spotlight",

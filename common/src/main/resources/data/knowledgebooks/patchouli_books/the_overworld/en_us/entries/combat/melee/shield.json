@@ -4,7 +4,7 @@
 	"category": "knowledgebooks:combat/melee",
 	"sortnum": "2",
 	"turnin": "minecraft:story/deflect_arrow",
-	"advancement": "minecraft:story/smelt_iron",
+	"advancement": "minecraft:recipes/combat/shield",
 	"pages": [
 		{
 			"type": "text",

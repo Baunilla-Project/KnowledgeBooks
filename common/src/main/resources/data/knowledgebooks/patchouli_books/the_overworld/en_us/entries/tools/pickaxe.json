@@ -16,7 +16,8 @@
 			"advancement": "minecraft:story/mine_stone",
 			"title": "Getting an Upgrade",
 			"text": "Construct a better pickaxe.$(br2)Have a stone pickaxe in your inventory."
-		},{
+		},
+		{
 			"type": "quest",
 			"trigger": "minecraft:story/iron_tools",
 			"advancement": "minecraft:story/smelt_iron",

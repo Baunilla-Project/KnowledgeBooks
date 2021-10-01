@@ -2,9 +2,11 @@
 	"name": "Slab",
 	"icon": "minecraft:cobblestone_slab",
 	"category": "knowledgebooks:building/types",
-	"pages": [{
-		"type": "spotlight",
-		"item": "minecraft:cobblestone_slab",
-		"text": "$(l)Slabs$() are half-height versions of their respective blocks. "
-	}]
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:cobblestone_slab",
+			"text": "$(l)Slabs$() are half-height versions of their respective blocks. "
+		}
+	]
 }

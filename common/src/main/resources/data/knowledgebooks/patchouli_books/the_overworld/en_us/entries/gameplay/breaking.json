@@ -3,11 +3,16 @@
 	"icon": "minecraft:wooden_pickaxe",
 	"category": "knowledgebooks:gameplay",
 	"sortnum": "1",
-	"pages": [{
-		"type": "text",
-		"text": "$(l)Breaking$(), $(l)digging$(), $(l)punching$(), or $(l)mining$() is a common activity in Minecraft, performed (by default) by holding the left mouse button or right trigger while the cursor is pointing at a block, or by long-pressing on the block on touch screens. Breaking is used to create passages, tunnels and clear away unwanted blocks, and is the primary way of acquiring blocks for future placement or $(l:gameplay/crafting)crafting$(). "
-	}, {
-		"type":"relations",
-		"entries": ["knowledgebooks:tools/tool"]
-	}]
+	"pages": [
+		{
+			"type": "text",
+			"text": "$(l)Breaking$(), $(l)digging$(), $(l)punching$(), or $(l)mining$() is a common activity in Minecraft, performed (by default) by holding the left mouse button or right trigger while the cursor is pointing at a block, or by long-pressing on the block on touch screens. Breaking is used to create passages, tunnels and clear away unwanted blocks, and is the primary way of acquiring blocks for future placement or $(l:gameplay/crafting)crafting$(). "
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:tools/tool"
+			]
+		}
+	]
 }
