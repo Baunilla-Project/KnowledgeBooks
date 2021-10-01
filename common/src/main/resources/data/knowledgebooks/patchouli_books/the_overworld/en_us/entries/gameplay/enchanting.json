@@ -1,0 +1,31 @@
+{
+	"name": "Enchanting",
+	"icon": "minecraft:enchanting_table",
+	"category": "knowledgebooks:gameplay",
+	"sortnum": "4",
+	"turnin": "minecraft:story/enchant_item",
+	"advancement": "minecraft:story/mine_diamond",
+	"pages": [
+		{
+			"type": "text",
+			"text": "$(l)Enchanting$() is a mechanic that augments $(l:combat/armors)armor$(), $(l:tools)tools$(), $(l:combat)weapons$(), and $(l:misc/book)books$() with one or more of a variety of \"enchantments\" that improve an item's existing abilities or imbue them with additional abilities and uses. A special \"glint\" animation appears on items that are enchanted. "
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/enchant_item",
+			"title": "Enchanter",
+			"text": "$(l)Enchant$() an item at an $(l:utility/enchanting_table)Enchantment Table$()  $(br2)Insert an item in an enchanting table, then apply an enchantment. "
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:utility/enchanting_table",
+				"knowledgebooks:misc/lapis_lazuli",
+				"knowledgebooks:misc/book",
+				"knowledgebooks:building/bookshelf",
+				"knowledgebooks:utility/anvil",
+				"knowledgebooks:utility/grindstone"
+			]
+		}
+	]
+}

@@ -3,7 +3,7 @@
 	"icon": "minecraft:iron_chestplate",
 	"category": "knowledgebooks:combat/armors",
 	"sortnum": "1",
-	"turnin": "minecraft:story:obtain_armor",
+	"turnin": "minecraft:story:shiny_gear",
 	"advancement": "minecraft:story/root",
 	"pages": [
 		{
@@ -15,7 +15,14 @@
 			"trigger": "minecraft:story/obtain_armor",
 			"advancement": "minecraft:story:upgrade_tools",
 			"title": "Suit Up",
-			"text": "Protect yourself with a piece of iron armor "
+			"text": "Protect yourself with a piece of iron armor. $(br2)Have any type of $(l:misc/iron_ingot)iron$() armor in your inventory."
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/shiny_gear",
+			"advancement": "minecraft:story:iron_tools",
+			"title": "Cover Me With Diamonds",
+			"text": "Diamond armor saves lives. $(br2)Have any type of $(l:misc/diamond)diamond$() armor in your inventory."
 		}
 	]
 }

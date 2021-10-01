@@ -2,7 +2,7 @@
 	"name": "Blast Furnace",
 	"icon": "minecraft:blast_furnace",
 	"category": "knowledgebooks:utility",
-	"advancement": "minecraft:recipes/decorations/blast_furnace",
+	"advancement": "minecraft:story/upgrade_tools",
 	"pages": [
 		{
 			"type": "text",
@@ -10,7 +10,8 @@
 		},
 		{
 			"type": "crafting",
-			"recipe": "minecraft:blast_furnace"
+			"recipe": "minecraft:blast_furnace",
+			"advancement": "minecraft:recipes/decorations/blast_furnace"
 		},
 		{
 			"type": "relations",

@@ -3,7 +3,6 @@
 	"icon": "minecraft:bucket",
 	"category": "knowledgebooks:tools",
 	"sortnum": "5",
-	"advancement": "minecraft:recipes/misc/bucket",
 	"pages": [
 		{
 			"type": "text",
@@ -11,7 +10,8 @@
 		},
 		{
 			"type": "crafting",
-			"recipe": "minecraft:bucket"
+			"recipe": "minecraft:bucket",
+			"advancement": "minecraft:recipes/misc/bucket"
 		},
 		{
 			"type": "quest",

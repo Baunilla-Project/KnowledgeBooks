@@ -2,7 +2,7 @@
 	"name": "Furnace",
 	"icon": "minecraft:furnace",
 	"category": "knowledgebooks:utility",
-	"advancement": "minecraft:recipes/decorations/furnace",
+	"advancement": "minecraft:story/root",
 	"pages": [
 		{
 			"type": "text",
@@ -10,7 +10,8 @@
 		},
 		{
 			"type": "crafting",
-			"recipe": "minecraft:furnace"
+			"recipe": "minecraft:furnace",
+			"advancement": "minecraft:recipes/decorations/furnace"
 		},
 		{
 			"type": "relations",
