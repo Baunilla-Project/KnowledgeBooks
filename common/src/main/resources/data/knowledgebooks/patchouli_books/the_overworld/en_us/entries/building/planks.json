@@ -1,0 +1,49 @@
+{
+	"name": "Planks",
+	"icon": "minecraft:oak_planks",
+	"category": "knowledgebooks:building",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:oak_planks",
+			"text": "$(l)Planks$() are common blocks used as building blocks and in $(l:gameplay/crafting)crafting$() recipes. They are one of the first things that a player can craft. "
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/oak_planks",
+			"recipe": "minecraft:oak_planks"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/spruce_planks",
+			"recipe": "minecraft:spruce_planks"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/birch_planks",
+			"recipe": "minecraft:birch_planks"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/jungle_planks",
+			"recipe": "minecraft:jungle_planks"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/acacia_planks",
+			"recipe": "minecraft:acacia_planks"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/dark_oak_planks",
+			"recipe": "minecraft:dark_oak_planks"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:building/log",
+				"knowledgebooks:building/wood"
+			]
+		}
+	]
+}

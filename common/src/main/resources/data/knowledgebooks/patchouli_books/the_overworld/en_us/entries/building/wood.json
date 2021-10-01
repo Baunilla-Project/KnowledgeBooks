@@ -1,0 +1,84 @@
+{
+	"name": "Wood",
+	"icon": "minecraft:oak_wood",
+	"category": "knowledgebooks:building",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:oak_wood",
+			"text": "$(l)Wood$() is a block that has the $(l:building/log)log$()'s \"bark\" texture on all six sides. "
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/oak_wood",
+			"recipe": "minecraft:oak_wood"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/spruce_wood",
+			"recipe": "minecraft:spruce_wood"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/birch_wood",
+			"recipe": "minecraft:birch_wood"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/jungle_wood",
+			"recipe": "minecraft:jungle_wood"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/acacia_wood",
+			"recipe": "minecraft:acacia_wood"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/dark_oak_wood",
+			"recipe": "minecraft:dark_oak_wood"
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:stripped_oak_wood",
+			"text": "$(l)Stripped wood$() is a variant obtained when any axe is used on wood."
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/stripped_oak_wood",
+			"recipe": "minecraft:stripped_oak_wood"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/stripped_spruce_wood",
+			"recipe": "minecraft:stripped_spruce_wood"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/stripped_birch_wood",
+			"recipe": "minecraft:stripped_birch_wood"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/stripped_jungle_wood",
+			"recipe": "minecraft:stripped_jungle_wood"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/stripped_acacia_wood",
+			"recipe": "minecraft:stripped_acacia_wood"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/stripped_dark_oak_wood",
+			"recipe": "minecraft:stripped_dark_oak_wood"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:building/log",
+				"knowledgebooks:building/planks"
+			]
+		}
+	]
+}

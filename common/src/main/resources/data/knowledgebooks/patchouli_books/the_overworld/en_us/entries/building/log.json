@@ -1,0 +1,77 @@
+{
+	"name": "Log",
+	"icon": "minecraft:oak_log",
+	"category": "knowledgebooks:building",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:oak_log",
+			"text": "A $(l)log$() is a naturally occurring block found in trees, primarily used as a building block, and to create $(building/planks)planks$(), a versatile $(gameplay/crafting)crafting$() ingredient.",
+			"link_recipe": true
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:spruce_log",
+			"link_recipe": true
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:birch_log",
+			"link_recipe": true
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:jungle_log",
+			"link_recipe": true
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:acacia_log",
+			"link_recipe": true
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:dark_oak_log",
+			"link_recipe": true
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:stripped_oak_log",
+			"text": "A $(l)stripped log$() is a variant obtained by using an axe on a log. Once stripped, it cannot be reversed. ",
+			"link_recipe": true
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:stripped_spruce_log",
+			"link_recipe": true
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:stripped_birch_log",
+			"link_recipe": true
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:stripped_jungle_log",
+			"link_recipe": true
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:stripped_acacia_log",
+			"link_recipe": true
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:stripped_dark_oak_log",
+			"link_recipe": true
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:building/leaves",
+				"knowledgebooks:building/wood",
+				"knowledgebooks:building/planks"
+			]
+		}
+	]
+}
