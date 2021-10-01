@@ -1,7 +1,7 @@
 {
 	"name": "Beehive/Bee Nest",
 	"icon": "minecraft:bee_nest",
-	"category": "knowledgebooks:blocks",
+	"category": "knowledgebooks:utility",
 	"pages": [
 		{
 			"type": "text",

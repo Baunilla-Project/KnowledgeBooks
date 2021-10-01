@@ -1,7 +1,7 @@
 {
 	"name": "Honey Block",
 	"icon": "minecraft:honey_block",
-	"category": "knowledgebooks:blocks",
+	"category": "knowledgebooks:decoration",
 	"pages": [
 		{
 			"type": "spotlight",

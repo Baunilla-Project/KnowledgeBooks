@@ -1,7 +1,7 @@
 {
 	"name": "Spectral Arrow",
 	"icon": "minecraft:spectral_arrow",
-	"category": "knowledgebooks:ranged/arrows",
+	"category": "knowledgebooks:combat",
 	"pages": [{
 		"type": "text",
 		"text": "A $(l)spectral arrow$() confers the Glowing status effect for 10 seconds."

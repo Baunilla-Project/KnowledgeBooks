@@ -1,7 +1,7 @@
 {
 	"name": "Honey Bottle",
 	"icon": "minecraft:honey_bottle",
-	"category": "knowledgebooks:items",
+	"category": "knowledgebooks:food",
 	"pages": [
 		{
 			"type": "spotlight",

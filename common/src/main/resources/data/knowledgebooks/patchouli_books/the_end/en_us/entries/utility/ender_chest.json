@@ -1,7 +1,7 @@
 {
 	"name": "Ender Chest",
 	"icon": "minecraft:ender_chest",
-	"category": "knowledgebooks:chests",
+	"category": "knowledgebooks:utility",
 	"pages": [
 		{
 			"type": "text",
