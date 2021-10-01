@@ -1,0 +1,13 @@
+{
+	"name": "Honey Bottle",
+	"icon": "minecraft:honey_bottle",
+	"category": "knowledgebooks:items",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:honey_bottle",
+			"link_recipe": true,
+			"text": "Collected by using a bottle on full $(l:utility/beehive)beehives$(/l)."
+		}
+	]
+}

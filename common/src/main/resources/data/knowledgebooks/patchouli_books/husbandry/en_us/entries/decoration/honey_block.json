@@ -2,7 +2,6 @@
 	"name": "Honey Block",
 	"icon": "minecraft:honey_block",
 	"category": "knowledgebooks:blocks",
-	"advancement": "minecraft:recipes/decorations/honey_block",
 	"pages": [
 		{
 			"type": "spotlight",
@@ -11,6 +10,7 @@
 		},
 		{
 			"type": "crafting",
+			"advancement": "minecraft:recipes/decorations/honey_block",
 			"recipe": "minecraft:honey_block"
 		}
 	]

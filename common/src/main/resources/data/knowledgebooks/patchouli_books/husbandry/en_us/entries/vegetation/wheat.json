@@ -1,0 +1,19 @@
+{
+	"name": "Wheat",
+	"icon": "minecraft:wheat",
+	"category": "knowledgebooks:vegetation",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:wheat",
+			"text": "When a fully-grown wheat crop is harvested, it drops 1 wheat.",
+			"link_recipe": true
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:wheat_seeds",
+			"text": "Harvesting fully-grown wheat crops yields from 0 to 3 seeds per crop harvested. Wheat seeds can also be obtained from breaking all variants of grass.",
+			"link_recipe": true
+		}
+	]
+}

@@ -6,6 +6,6 @@
 		"type": "spotlight",
 		"item": "minecraft:honeycomb",
 		"link_recipe": true,
-		"text": "Collected by shearing full $(l:blocks/beehive)beehives$(/l)."
+		"text": "Collected by shearing full $(l:utility/beehive)beehives$(/l)."
 	}]
 }

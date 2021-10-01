@@ -1,0 +1,32 @@
+{
+	"name": "Beehive/Bee Nest",
+	"icon": "minecraft:bee_nest",
+	"category": "knowledgebooks:blocks",
+	"pages": [
+		{
+			"type": "text",
+			"text": "$(li)Can $(l:gameplay/bee_housing)house$(/l) $(l:mobs/bee)bees$(/l). $(li)Fills up with honey."
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:beehive",
+			"text": "Beehives are crafted versions of bee nests."
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:beehive"
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:bee_nest",
+			"title": "Generation",
+			"text": "Oak and birch trees grown from saplings that are within 2 blocks of any flower have 5% chance to grow with a bee nest with 1–3 $(l:mobs/bee)bees$(/l) in it.",
+			"anchor": "gen",
+			"link_recipe": true
+		},
+		{
+			"type": "text",
+			"text": "Bee nests generate in the following biomes with different chances: $(li)Plains $(li)Sunflower plains $(li)Forest $(li)Flower forest $(li)Wooded hills $(li)Birch forest $(li)Birch forest hills $(li)Tall birch forest $(li)Tall birch hills"
+		}
+	]
+}

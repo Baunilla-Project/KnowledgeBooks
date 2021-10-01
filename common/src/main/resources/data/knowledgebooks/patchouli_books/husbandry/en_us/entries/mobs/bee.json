@@ -5,16 +5,16 @@
 	"pages": [{
 		"type": "text",
 		"title": "Behavior",
-		"text": "If provoked, bees attack in a swarm to sting the player and inflict poison."
+		"text": "If provoked, $(l)bees$() attack in a swarm to sting the player and inflict poison."
 	}, {
 		"type": "entity",
 		"entity": "minecraft:bee",
 		"scale": "0.6",
 		"name": "Bee",
-		"text": "Bees are neutral mobs that live in $(l:blocks/beehive#gen)bee nests$(/l) and $(l:blocks/beehive)beehives$(/l)."
+		"text": "Bees are neutral mobs that live in $(l:utility/beehive#gen)bee nests$(/l) and $(l:utility/beehive)beehives$(/l)."
 	}, {
 		"type": "text",
 		"title": "Spawning",
-		"text": "Naturally generated $(l:blocks/beehive#gen)bee nests$(/l) generate with 3 bees in them.$(br2)See $(l:blocks/beehive#gen)here$(/l) where bee nests can generate."
+		"text": "Naturally generated $(l:utility/beehive#gen)bee nests$(/l) generate with 3 bees in them.$(br2)See $(l:utility/beehive#gen)here$(/l) where bee nests can generate."
 	}]
 }
