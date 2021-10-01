@@ -20,23 +20,34 @@
 		{
 			"type": "quest",
 			"trigger": "minecraft:story/iron_tools",
-			"advancement": "minecraft:story/smelt_iron",
+			"advancement": "minecraft:story/upgrade_tools",
 			"title": "Isn't It Iron Pick",
 			"text": "Upgrade your pickaxe.$(br2)Have an iron pickaxe in your inventory."
 		},
 		{
 			"type": "crafting",
 			"recipe": "minecraft:wooden_pickaxe",
-			"recipe2": "minecraft:stone_pickaxe"
+			"advancement": "minecraft:recipes/tools/wooden_pickaxe"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:stone_pickaxe",
+			"advancement": "minecraft:recipes/tools/stone_pickaxe"
 		},
 		{
 			"type": "crafting",
 			"recipe": "minecraft:iron_pickaxe",
-			"recipe2": "minecraft:golden_pickaxe"
+			"advancement": "minecraft:recipes/tools/iron_pickaxe"
 		},
 		{
 			"type": "crafting",
-			"recipe": "minecraft:diamond_pickaxe"
+			"recipe": "minecraft:golden_pickaxe",
+			"advancement": "minecraft:recipes/tools/golden_pickaxe"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond_pickaxe",
+			"advancement": "minecraft:recipes/tools/diamond_pickaxe"
 		}
 	]
 }

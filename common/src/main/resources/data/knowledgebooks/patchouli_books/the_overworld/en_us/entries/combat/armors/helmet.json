@@ -12,17 +12,22 @@
 		{
 			"type": "crafting",
 			"recipe": "minecraft:leather_helmet",
-			"recipe2": "minecraft:iron_helmet"
+			"advancement": "minecraft:recipes/combat/leather_helmet"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:iron_helmet",
+			"advancement": "minecraft:recipes/combat/iron_helmet"
 		},
 		{
 			"type": "crafting",
 			"recipe": "minecraft:golden_helmet",
-			"recipe2": "minecraft:diamond_helmet"
+			"advancement": "minecraft:recipes/combat/golden_helmet"
 		},
 		{
 			"type": "crafting",
-			"advancement": "minecraft:husbandry/breed_an_animal",
-			"recipe": "minecraft:turtle_helmet"
+			"recipe": "minecraft:diamond_helmet",
+			"advancement": "minecraft:recipes/combat/diamond_helmet"
 		}
 	]
 }

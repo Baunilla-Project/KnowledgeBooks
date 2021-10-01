@@ -3,7 +3,7 @@
 	"icon": "minecraft:diamond",
 	"category": "knowledgebooks:misc",
 	"turnin": "minecraft:story/mine_diamond",
-	"advancement": "minecraft:story/iron_tools",
+	"advancement": "minecraft:story/smelt_iron",
 	"pages": [
 		{
 			"type": "spotlight",

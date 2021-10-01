@@ -12,16 +12,27 @@
 		{
 			"type": "crafting",
 			"recipe": "minecraft:wooden_shovel",
-			"recipe2": "minecraft:stone_shovel"
+			"advancement": "minecraft:recipes/tools/wooden_shovel"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:stone_shovel",
+			"advancement": "minecraft:recipes/tools/stone_shovel"
 		},
 		{
 			"type": "crafting",
 			"recipe": "minecraft:iron_shovel",
-			"recipe2": "minecraft:golden_shovel"
+			"advancement": "minecraft:recipes/tools/iron_shovel"
 		},
 		{
 			"type": "crafting",
-			"recipe": "minecraft:diamond_shovel"
+			"recipe": "minecraft:golden_shovel",
+			"advancement": "minecraft:recipes/tools/golden_shovel"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond_shovel",
+			"advancement": "minecraft:recipes/tools/diamond_shovel"
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"name": "Obsidian",
 	"icon": "minecraft:obsidian",
 	"category": "knowledgebooks:building",
-	"advancement": "minecraft:story/lava_bucket",
+	"advancement": "minecraft:story/smelt_iron",
 	"pages": [
 		{
 			"type": "spotlight",
@@ -16,7 +16,6 @@
 		{
 			"type": "quest",
 			"trigger": "minecraft:story/form_obsidian",
-			"advancement": "minecraft:story/mine_diamond",
 			"title": "Ice Bucket Challenge",
 			"text": "Obtain a block of obsidian. $(br2)Have a block of obsidian in your inventory."
 		},

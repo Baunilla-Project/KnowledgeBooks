@@ -12,12 +12,22 @@
 		{
 			"type": "crafting",
 			"recipe": "minecraft:leather_boots",
-			"recipe2": "minecraft:iron_boots"
+			"advancement": "minecraft:recipes/combat/leather_boots"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:iron_boots",
+			"advancement": "minecraft:recipes/combat/iron_boots"
 		},
 		{
 			"type": "crafting",
 			"recipe": "minecraft:golden_boots",
-			"recipe2": "minecraft:diamond_boots"
+			"advancement": "minecraft:recipes/combat/golden_boots"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond_boots",
+			"advancement": "minecraft:recipes/combat/diamond_boots"
 		}
 	]
 }

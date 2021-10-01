@@ -12,16 +12,27 @@
 		{
 			"type": "crafting",
 			"recipe": "minecraft:wooden_axe",
-			"recipe2": "minecraft:stone_axe"
+			"advancement": "minecraft:recipes/tools/wooden_axe"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:stone_axe",
+			"advancement": "minecraft:recipes/tools/stone_axe"
 		},
 		{
 			"type": "crafting",
 			"recipe": "minecraft:iron_axe",
-			"recipe2": "minecraft:golden_axe"
+			"advancement": "minecraft:recipes/tools/iron_axe"
 		},
 		{
 			"type": "crafting",
-			"recipe": "minecraft:diamond_axe"
+			"recipe": "minecraft:golden_axe",
+			"advancement": "minecraft:recipes/tools/golden_axe"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond_axe",
+			"advancement": "minecraft:recipes/tools/diamond_axe"
 		}
 	]
 }

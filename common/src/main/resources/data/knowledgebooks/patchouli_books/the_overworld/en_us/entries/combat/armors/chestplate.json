@@ -12,12 +12,22 @@
 		{
 			"type": "crafting",
 			"recipe": "minecraft:leather_chestplate",
-			"recipe2": "minecraft:iron_chestplate"
+			"advancement": "minecraft:recipes/combat/leather_chestplate"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:iron_chestplate",
+			"advancement": "minecraft:recipes/combat/iron_chestplate"
 		},
 		{
 			"type": "crafting",
 			"recipe": "minecraft:golden_chestplate",
-			"recipe2": "minecraft:diamond_chestplate"
+			"advancement": "minecraft:recipes/combat/golden_chestplate"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond_chestplate",
+			"advancement": "minecraft:recipes/combat/diamond_chestplate"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"icon": "minecraft:bucket",
 	"category": "knowledgebooks:tools",
 	"sortnum": "5",
-	"advancement": "minecraft:story/smelt_iron",
+	"advancement": "minecraft:recipes/misc/bucket",
 	"pages": [
 		{
 			"type": "text",
@@ -12,9 +12,11 @@
 		{
 			"type": "crafting",
 			"recipe": "minecraft:bucket"
-		},{
+		},
+		{
 			"type": "quest",
 			"trigger": "minecraft:story/lava_bucket",
+			"advancement": "minecraft:story/upgrade_tools",
 			"title": "Hot Stuff",
 			"text": "Fill a bucket with lava. $(br2)Have a lava bucket in your inventory. "
 		}

@@ -13,7 +13,7 @@
 		{
 			"type": "quest",
 			"trigger": "minecraft:story/obtain_armor",
-			"advancement": "minecraft:story:smelt_iron",
+			"advancement": "minecraft:story:upgrade_tools",
 			"title": "Suit Up",
 			"text": "Protect yourself with a piece of iron armor "
 		}

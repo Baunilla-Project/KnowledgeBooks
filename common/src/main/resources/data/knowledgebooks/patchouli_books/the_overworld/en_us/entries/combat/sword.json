@@ -1,0 +1,38 @@
+{
+	"name": "Sword",
+	"icon": "minecraft:iron_sword",
+	"category": "knowledgebooks:combat",
+	"sortnum": "1",
+	"advancement": "minecraft:story/root",
+	"pages": [
+		{
+			"type": "text",
+			"text": "A $(l)sword$() is a melee weapon that is mainly used to damage entities and for mining cobwebs or bamboo. "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:wooden_sword",
+			"advancement": "minecraft:recipes/tools/wooden_sword"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:stone_sword",
+			"advancement": "minecraft:recipes/tools/stone_sword"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:iron_sword",
+			"advancement": "minecraft:recipes/tools/iron_sword"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:golden_sword",
+			"advancement": "minecraft:recipes/tools/golden_sword"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond_sword",
+			"advancement": "minecraft:recipes/tools/diamond_sword"
+		}
+	]
+}
