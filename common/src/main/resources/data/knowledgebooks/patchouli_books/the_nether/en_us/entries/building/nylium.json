@@ -1,10 +1,10 @@
 {
 	"name": "Nylium",
 	"icon": "minecraft:crimson_nylium",
-	"category": "knowledgebooks:blocks",
+	"category": "knowledgebooks:building",
 	"pages": [{
 		"type": "text",
-		"text": "$(li)Nylium is a variant of $(l:blocks/netherrack)Netherrack$(/l) that generates in the Nether. It has two variants: warped nylium and crimson nylium. $(li)Using bone meal on netherrack placed next to warped nylium or crimson nylium transforms the netherrack into more nylium."
+		"text": "$(li)$(l)Nylium$() is a variant of $(l:building/netherrack)Netherrack$(/l) that generates in the Nether. It has two variants: warped nylium and crimson nylium. $(li)Using bone meal on netherrack placed next to warped nylium or crimson nylium transforms the netherrack into more nylium."
 	}, {
 		"type": "spotlight",
 		"item": "minecraft:crimson_nylium",
@@ -17,6 +17,6 @@
 		"text": "Warped nylium generates in the $(l:biomes/warped_forest)warped forest$(/l) biome"
 	}, {
 		"type":"relations",
-		"entries": ["knowledgebooks:blocks/netherrack"]
+		"entries": ["knowledgebooks:building/netherrack"]
 	}]
 }

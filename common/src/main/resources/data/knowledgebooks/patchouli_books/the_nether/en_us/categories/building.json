@@ -1,6 +1,5 @@
 {
 	"name": "Building Blocks",
 	"description": "Blocks used mainly used as a material for building.",
-	"icon": "minecraft:stone",
-	"sortnum": "2"
+	"icon": "minecraft:netherrack"
 }

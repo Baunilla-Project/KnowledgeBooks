@@ -1,7 +1,7 @@
 {
 	"name": "End Stone",
 	"icon": "minecraft:end_stone",
-	"category": "knowledgebooks:blocks",
+	"category": "knowledgebooks:building",
 	"pages": [{
 		"type": "text",
 		"text": "End stone is a block that appears in The End and, apart from generated structures, makes up all of the solid ground that exists in that dimension."
