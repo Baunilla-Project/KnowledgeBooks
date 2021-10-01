@@ -1,0 +1,29 @@
+{
+	"name": "Crossbow",
+	"icon": "minecraft:crossbow",
+	"category": "knowledgebooks:combat",
+	"turnin": "minecraft:adventure/ol_betsy ",
+	"pages": [
+		{
+			"type": "text",
+			"text": "A $(l)crossbow$() is a ranged weapon similar to a $(l:combat/bow)bow$() that uses $(l:combat/arrow)arrows$() or fireworks as ammunition. "
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:adventure/ol_betsy",
+			"title": "Ol' Betsy",
+			"text": "Shoot a crossbow. "
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/combat/crossbow",
+			"recipe": "minecraft:crossbow"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:combat/arrow"
+			]
+		}
+	]
+}

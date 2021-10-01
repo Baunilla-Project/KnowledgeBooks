@@ -1,0 +1,30 @@
+{
+	"name": "Arrow",
+	"icon": "minecraft:arrow",
+	"category": "knowledgebooks:combat",
+	"turnin": "minecraft:adventure/shoot_arrow",
+	"pages": [
+		{
+			"type": "text",
+			"text": "An $(l)arrow$() serves as ammunition for $(l:combat/bow)bows$(), $(l:combat/crossbow)crossbows$(), and dispensers. Arrows can be modified to imbue status effects on players and mobs. "
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:adventure/shoot_arrow",
+			"title": "Take Aim",
+			"text": "Shoot something with an $(l:combat/arrow)arrow$(). $(br2)Using a $(l)bow$() or a $(l:combat/crossbow)crossbow$(), shoot an entity with an arrow, tipped arrow, or spectral arrow. "
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/combat/arrow",
+			"recipe": "minecraft:arrow"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:combat/bow",
+				"knowledgebooks:combat/crossbow"
+			]
+		}
+	]
+}

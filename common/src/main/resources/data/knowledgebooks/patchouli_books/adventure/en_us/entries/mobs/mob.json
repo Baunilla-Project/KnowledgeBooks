@@ -1,0 +1,26 @@
+{
+	"name": "Hostile Mobs",
+	"icon": "minecraft:iron_sword",
+	"category": "knowledgebooks:mobs",
+	"sortnum": "-1",
+	"turnin": "minecraft:adventure/kill_all_mobs",
+	"pages": [
+		{
+			"type": "text",
+			"text": "$(l)Hostile mobs$() are dangerous, aggressive mobs that always attack the player within their respective detection ranges."
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:adventure/kill_a_mob",
+			"title": "Monster Hunter",
+			"text": "Kill any hostile monster."
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:adventure/kill_all_mobs",
+			"advancement": "minecraft:adventure/kill_a_mob",
+			"title": "Monsters Hunted",
+			"text": "Kill one of every hostile monster."
+		}
+	]
+}
