@@ -1,6 +1,6 @@
 {
 	"name": "Gameplay",
-	"description": "",
+	"description": "Mechanics and ways how to play the game.",
 	"icon": "minecraft:writable_book",
 	"sortnum": "1"
 }

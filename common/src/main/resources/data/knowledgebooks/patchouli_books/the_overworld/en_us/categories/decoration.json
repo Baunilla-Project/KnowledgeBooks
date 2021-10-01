@@ -1,6 +1,6 @@
 {
 	"name": "Decoration Blocks",
-	"description": "",
+	"description": "Blocks used mainly as decoration on buildings.",
 	"icon": "minecraft:oak_leaves",
 	"sortnum": "2"
 }

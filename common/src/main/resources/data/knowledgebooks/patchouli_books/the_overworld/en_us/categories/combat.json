@@ -1,6 +1,6 @@
 {
 	"name": "Combat",
-	"description": "",
+	"description": "Attacking mobs is a good way to gether resources, but you also may need some protection against some of them.",
 	"icon": "minecraft:wooden_sword",
 	"sortnum": "4"
 }

@@ -1,6 +1,6 @@
 {
 	"name": "Building Blocks",
-	"description": "",
+	"description": "Blocks used mainly used as a material for building.",
 	"icon": "minecraft:oak_log",
 	"sortnum": "2"
 }
