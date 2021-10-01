@@ -1,0 +1,19 @@
+{
+	"name": "Barrel",
+	"icon": "minecraft:barrel",
+	"category": "knowledgebooks:utility",
+	"pages": [
+		{
+			"type": "text",
+			"text": "A barrel is a fisherman's job site block, used to store items. It functions like a single chest."
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:barrel"
+		},
+		{
+			"type": "text",
+			"text": "Unlike chests, a barrel can be placed below a solid block and still be able to be opened."
+		}
+	]
+}
