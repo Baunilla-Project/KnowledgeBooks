@@ -1,0 +1,23 @@
+{
+	"name": "Block of Diamond",
+	"icon": "minecraft:diamond_block",
+	"category": "knowledgebooks:building",
+	"advancement": "minecraft:recipes/building_blocks/diamond_block",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:diamond_block",
+			"text": "A $(l)block of diamond$() is a precious mineral block equivalent to nine $(l:misc/diamond)diamonds$(). "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond_block"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:misc/diamond"
+			]
+		}
+	]
+}

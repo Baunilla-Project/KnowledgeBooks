@@ -1,0 +1,23 @@
+{
+	"name": "Block of Iron",
+	"icon": "minecraft:iron_block",
+	"category": "knowledgebooks:building",
+	"advancement": "minecraft:recipes/building_blocks/iron_block",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:iron_block",
+			"text": "A $(l)block of iron$() is a precious metal block equivalent to nine $(l:misc/iron_ingot)iron ingots$(). "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:iron_block"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:misc/iron_ingot"
+			]
+		}
+	]
+}

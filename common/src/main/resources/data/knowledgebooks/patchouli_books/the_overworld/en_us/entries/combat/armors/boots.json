@@ -12,16 +12,12 @@
 		{
 			"type": "crafting",
 			"recipe": "minecraft:leather_boots",
-			"recipe2": "minecraft:chainmail_boots"
+			"recipe2": "minecraft:iron_boots"
 		},
 		{
 			"type": "crafting",
-			"recipe": "minecraft:iron_boots",
-			"recipe2": "minecraft:golden_boots"
-		},
-		{
-			"type": "crafting",
-			"recipe": "minecraft:diamond_boots"
+			"recipe": "minecraft:golden_boots",
+			"recipe2": "minecraft:diamond_boots"
 		}
 	]
 }

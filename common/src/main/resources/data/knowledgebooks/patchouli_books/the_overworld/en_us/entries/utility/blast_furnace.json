@@ -1,0 +1,23 @@
+{
+	"name": "Blast Furnace",
+	"icon": "minecraft:blast_furnace",
+	"category": "knowledgebooks:utility",
+	"advancement": "minecraft:recipes/decorations/blast_furnace",
+	"pages": [
+		{
+			"type": "text",
+			"text": "A $(l)blast furnace$() is a block that $(l:gameplay/smelting)smelts$() ores, iron and gold $(l:combat/armors/armor)armor$() and $(l:tools/tool)tools$(), similar to a $(l:utility/furnace)furnace$(), but at twice the rate. It also serves as an armorer's job site block. "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:blast_furnace"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:gameplay/smelting",
+				"knowledgebooks:utility/furnace"
+			]
+		}
+	]
+}

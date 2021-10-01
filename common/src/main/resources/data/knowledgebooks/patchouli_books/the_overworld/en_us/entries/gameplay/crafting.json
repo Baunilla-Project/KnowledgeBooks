@@ -4,16 +4,22 @@
 	"category": "knowledgebooks:gameplay",
 	"sortnum": "2",
 	"turnin": "minecraft:story/root",
-	"pages": [{
-		"type": "text",
-		"text": "Crafting is how a player makes items and blocks in Minecraft. To craft something, a player moves items from their inventory to a crafting grid, arranging them according to a recipe. A 2×2 crafting grid can be accessed from the player's inventory and a 3×3 grid can be accessed by using a $(l:utility/crafting_table)crafting table$(). Items crafted in the 2x2 grid can also be crafted in the crafting table. "
-	}, {
-		"type": "quest",
-		"trigger": "minecraft:story/root",
-		"title": "Workbench",
-		"text": "The heart and story of the game. $(br2)Have a $(l:utility/crafting_table)crafting table$() in your inventory."
-	}, {
-		"type":"relations",
-		"entries": ["knowledgebooks:utility/crafting_table"]
-	}]
+	"pages": [
+		{
+			"type": "text",
+			"text": "Crafting is how a player makes items and blocks in Minecraft. To craft something, a player moves items from their inventory to a crafting grid, arranging them according to a recipe. A 2×2 crafting grid can be accessed from the player's inventory and a 3×3 grid can be accessed by using a $(l:utility/crafting_table)crafting table$(). Items crafted in the 2x2 grid can also be crafted in the crafting table. "
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/root",
+			"title": "Workbench",
+			"text": "The heart and story of the game. $(br2)Have a $(l:utility/crafting_table)crafting table$() in your inventory."
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:utility/crafting_table"
+			]
+		}
+	]
 }

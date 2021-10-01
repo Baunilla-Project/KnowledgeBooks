@@ -19,7 +19,10 @@
 		{
 			"type": "relations",
 			"entries": [
-				"knowledgebooks:utility/furnace"
+				"knowledgebooks:utility/furnace",
+				"knowledgebooks:utility/blast_furnace",
+				"knowledgebooks:utility/smoker",
+				"knowledgebooks:utility/campfire"
 			]
 		}
 	]

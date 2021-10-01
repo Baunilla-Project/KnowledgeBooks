@@ -12,16 +12,12 @@
 		{
 			"type": "crafting",
 			"recipe": "minecraft:leather_leggings",
-			"recipe2": "minecraft:chainmail_leggings"
+			"recipe2": "minecraft:iron_leggings"
 		},
 		{
 			"type": "crafting",
-			"recipe": "minecraft:iron_leggings",
-			"recipe2": "minecraft:golden_leggings"
-		},
-		{
-			"type": "crafting",
-			"recipe": "minecraft:diamond_leggings"
+			"recipe": "minecraft:golden_leggings",
+			"recipe2": "minecraft:diamond_leggings"
 		}
 	]
 }

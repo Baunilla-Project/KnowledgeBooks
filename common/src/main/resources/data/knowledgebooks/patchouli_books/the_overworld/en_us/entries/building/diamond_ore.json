@@ -1,0 +1,19 @@
+{
+	"name": "Diamond Ore",
+	"icon": "minecraft:diamond_ore",
+	"category": "knowledgebooks:building",
+	"advancement": "minecraft:story/iron_tools",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:diamond_ore",
+			"text": "$(l)Diamond ore$() is a rare ore that generates deep underground, and is the only reliable source of $(l:misc/diamond)diamonds$(). "
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:misc/diamond"
+			]
+		}
+	]
+}

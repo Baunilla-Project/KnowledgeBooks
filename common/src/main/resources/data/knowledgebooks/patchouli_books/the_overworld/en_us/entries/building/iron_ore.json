@@ -1,0 +1,19 @@
+{
+	"name": "Iron Ore",
+	"icon": "minecraft:iron_ore",
+	"category": "knowledgebooks:building",
+	"advancement": "minecraft:story/mine_stone",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:iron_ore",
+			"text": "$(l)Iron ore$() is a mineral block found underground. Can be smelted into $(l:misc/iron_ingot)iron ingots$(). "
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:misc/iron_ingot"
+			]
+		}
+	]
+}

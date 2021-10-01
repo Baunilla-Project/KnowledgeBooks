@@ -1,0 +1,40 @@
+{
+	"name": "Diamond",
+	"icon": "minecraft:diamond",
+	"category": "knowledgebooks:misc",
+	"turnin": "minecraft:story/mine_diamond",
+	"advancement": "minecraft:story/iron_tools",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:diamond",
+			"text": "A $(l)diamond$() is a rare mineral obtained from $(l:building/diamond_ore)diamond ore$() or loot chests. $(br2)They are mainly used to craft high-tier $(l:tools/tool)tools$() and $(l:combat/armors/armor)armor$(), $(l:building/enchanting_table)enchanting tables$(), $(l:building/diamond_block)blocks of diamond$(), and $(l:utility/jukebox)jukeboxes$(). "
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/mine_diamond",
+			"title": "Diamonds!",
+			"text": "Acquire diamonds . $(br2)Have a diamond in your inventory. "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond"
+		},
+		{
+			"type": "smelting",
+			"recipe": "minecraft:diamond_from_smelting"
+		},
+		{
+			"type": "smelting",
+			"recipe": "minecraft:diamond_from_blasting",
+			"advancement": "minecraft:recipes/decorations/blast_furnace"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:building/diamond_block",
+				"knowledgebooks:building/diamond_ore"
+			]
+		}
+	]
+}

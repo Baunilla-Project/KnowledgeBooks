@@ -2,15 +2,23 @@
 	"name": "Furnace",
 	"icon": "minecraft:furnace",
 	"category": "knowledgebooks:utility",
-	"advancement": "minecraft:story/mine_stone",
-	"pages": [{
-		"type": "text",
-		"text": "A $(l)furnace$() is a utility block used for the smelting of blocks and items. "
-	}, {
-		"type": "crafting",
-		"recipe": "minecraft:furnace"
-	},{
-		"type":"relations",
-		"entries": ["knowledgebooks:gameplay/smelting"]
-	}]
+	"advancement": "minecraft:recipes/decorations/furnace",
+	"pages": [
+		{
+			"type": "text",
+			"text": "A $(l)furnace$() is a utility block used for the smelting of blocks and items. "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:furnace"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:gameplay/smelting",
+				"knowledgebooks:utility/blast_furnace",
+				"knowledgebooks:utility/smoker"
+			]
+		}
+	]
 }
