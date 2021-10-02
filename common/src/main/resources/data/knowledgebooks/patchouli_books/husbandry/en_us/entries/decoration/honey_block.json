@@ -12,6 +12,12 @@
 			"type": "crafting",
 			"advancement": "minecraft:recipes/decorations/honey_block",
 			"recipe": "minecraft:honey_block"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:food/honey_bottle"
+			]
 		}
 	]
 }

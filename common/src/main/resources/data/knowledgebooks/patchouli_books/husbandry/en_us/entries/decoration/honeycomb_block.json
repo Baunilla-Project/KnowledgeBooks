@@ -12,6 +12,12 @@
 			"type": "crafting",
 			"advancement": "minecraft:recipes/decorations/honeycomb_block",
 			"recipe": "minecraft:honeycomb_block"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:misc/honeycomb"
+			]
 		}
 	]
 }

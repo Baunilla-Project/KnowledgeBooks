@@ -1,0 +1,22 @@
+{
+	"name": "Breeding",
+	"icon": "minecraft:wheat",
+	"category": "knowledgebooks:gameplay",
+	"turnin": "minecraft:husbandry/breed_an_animal",
+	"pages": [
+		{
+			"type": "text",
+			"text": "$(l)Breeding$() is a game mechanic that allows mobs of the same species to breed with each other to produce offspring (with the exception of breeding a mule, which requires a $(l:mobs/horse)horse$() and donkey). "
+		},
+		{
+			"type": "text",
+			"text": "When an animal is fed its food, it enters \"love mode,\" preparing to breed with another animal of the same species that is also in love mode. Animals that are in love mode emit heart particles constantly."
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:husbandry/breed_an_animal",
+			"title": "The Parrots and the Bats",
+			"text": "Breed two animals together. "
+		}
+	]
+}
