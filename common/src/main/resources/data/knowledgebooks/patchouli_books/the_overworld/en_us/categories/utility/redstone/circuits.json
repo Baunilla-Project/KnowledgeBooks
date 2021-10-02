@@ -1,0 +1,6 @@
+{
+	"name": "Redstone Circuits",
+	"description": "Articles describing various types of redstone circuits. ",
+	"icon": "minecraft:comparator",
+	"parent": "knowledgebooks:utility/redstone"
+}
