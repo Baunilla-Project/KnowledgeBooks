@@ -1,0 +1,38 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create"
+		}
+	],
+	"parent": "minecraft:recipes/root",
+	"rewards": {
+		"recipes": [
+			"knowledgebooks:create"
+		]
+	},
+	"criteria": {
+		"has_book": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:book"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "knowledgebooks:create"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_book",
+			"has_the_recipe"
+		]
+	]
+}

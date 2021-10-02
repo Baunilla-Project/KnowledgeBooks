@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "farmersdelight"
+		}
+	],
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:book"
+		},
+		{
+			"item": "farmersdelight:straw"
+		}
+	],
+	"result": {
+		"item": "patchouli:guide_book",
+		"functions": [
+			{
+				"function": "set_nbt",
+				"tag": "{\"patchouli:book\": \"farmersdelight\"}"
+			}
+		]
+	}
+}

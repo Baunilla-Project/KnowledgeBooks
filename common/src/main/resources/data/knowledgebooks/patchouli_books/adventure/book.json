@@ -3,5 +3,6 @@
 	"subtitle": "Adventure and combat",
 	"landing_text": "Learn the best way to protect yourself or deal some damage while finding new places.",
 	"book_texture": "knowledgebooks:textures/gui/book/combat_book.png",
-	"model": "knowledgebooks:book/combat_book"
+	"model": "knowledgebooks:book/combat_book",
+	"advancements_tab": "minecraft:adventure/root"
 }

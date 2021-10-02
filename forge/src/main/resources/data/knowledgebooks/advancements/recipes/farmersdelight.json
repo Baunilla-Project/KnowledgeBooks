@@ -1,0 +1,38 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "farmersdelight"
+		}
+	],
+	"parent": "minecraft:recipes/root",
+	"rewards": {
+		"recipes": [
+			"knowledgebooks:farmersdelight"
+		]
+	},
+	"criteria": {
+		"has_book": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:book"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "knowledgebooks:farmersdelight"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_book",
+			"has_the_recipe"
+		]
+	]
+}
