@@ -2,7 +2,7 @@
 	"name": "Crossbow",
 	"icon": "minecraft:crossbow",
 	"category": "knowledgebooks:combat",
-	"turnin": "minecraft:adventure/ol_betsy ",
+	"turnin": "minecraft:adventure/ol_betsy",
 	"pages": [
 		{
 			"type": "text",

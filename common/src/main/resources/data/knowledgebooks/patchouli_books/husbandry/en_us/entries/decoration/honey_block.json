@@ -2,6 +2,7 @@
 	"name": "Honey Block",
 	"icon": "minecraft:honey_block",
 	"category": "knowledgebooks:decoration",
+	"turnin": "minecraft:adventure/honey_block_slide",
 	"pages": [
 		{
 			"type": "spotlight",
@@ -12,6 +13,12 @@
 			"type": "crafting",
 			"advancement": "minecraft:recipes/decorations/honey_block",
 			"recipe": "minecraft:honey_block"
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:adventure/honey_block_slide",
+			"title": "Sticky Situation",
+			"text": "Jump into a Honey Block to break your fall. $(br)Collide on a vertical side of a honey block when in air."
 		},
 		{
 			"type": "relations",

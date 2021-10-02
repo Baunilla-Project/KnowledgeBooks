@@ -2,7 +2,7 @@
 	"name": "Arrow",
 	"icon": "minecraft:arrow",
 	"category": "knowledgebooks:combat",
-	"turnin": "minecraft:adventure/shoot_arrow",
+	"turnin": "minecraft:adventure/sniper_duel",
 	"pages": [
 		{
 			"type": "text",
@@ -13,6 +13,13 @@
 			"trigger": "minecraft:adventure/shoot_arrow",
 			"title": "Take Aim",
 			"text": "Shoot something with an $(l:combat/arrow)arrow$(). $(br2)Using a $(l)bow$() or a $(l:combat/crossbow)crossbow$(), shoot an entity with an arrow, tipped arrow, or spectral arrow. "
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:adventure/sniper_duel",
+			"advancement": "minecraft:adventure/kill_a_mob",
+			"title": "Sniper Duel",
+			"text": "Kill a $(l:mobs/skeleton)Skeleton$() from at least 50 meters away. $(br)Be at least 50 blocks away horizontally when a skeleton is killed by an arrow after the player has attacked it once."
 		},
 		{
 			"type": "crafting",
