@@ -4,9 +4,12 @@
 	"category": "knowledgebooks:building",
 	"pages": [
 		{
+			"type": "text",
+			"text": "A $(l)log$() is a naturally occurring block found in trees, primarily used as a building block, and to create $(building/planks)planks$(), a versatile $(gameplay/crafting)crafting$() ingredient."
+		},
+		{
 			"type": "spotlight",
 			"item": "minecraft:oak_log",
-			"text": "A $(l)log$() is a naturally occurring block found in trees, primarily used as a building block, and to create $(building/planks)planks$(), a versatile $(gameplay/crafting)crafting$() ingredient.",
 			"link_recipe": true
 		},
 		{
@@ -35,9 +38,12 @@
 			"link_recipe": true
 		},
 		{
+			"type": "text",
+			"text": "A $(l)stripped log$() is a variant obtained by using an axe on a log. Once stripped, it cannot be reversed. "
+		},
+		{
 			"type": "spotlight",
 			"item": "minecraft:stripped_oak_log",
-			"text": "A $(l)stripped log$() is a variant obtained by using an axe on a log. Once stripped, it cannot be reversed. ",
 			"link_recipe": true
 		},
 		{

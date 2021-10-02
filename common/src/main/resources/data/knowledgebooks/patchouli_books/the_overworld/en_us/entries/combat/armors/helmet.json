@@ -2,7 +2,7 @@
 	"name": "Helmet",
 	"icon": "minecraft:leather_helmet",
 	"category": "knowledgebooks:combat/armors",
-	"sortnum": "2",
+	"sortnum": "1",
 	"advancement": "minecraft:story/root",
 	"pages": [
 		{

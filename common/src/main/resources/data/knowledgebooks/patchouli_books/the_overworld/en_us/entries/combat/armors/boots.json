@@ -2,7 +2,7 @@
 	"name": "Boots",
 	"icon": "minecraft:leather_boots",
 	"category": "knowledgebooks:combat/armors",
-	"sortnum": "5",
+	"sortnum": "4",
 	"advancement": "minecraft:story/root",
 	"pages": [
 		{

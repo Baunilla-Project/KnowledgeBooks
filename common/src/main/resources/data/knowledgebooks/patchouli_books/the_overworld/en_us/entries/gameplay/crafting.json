@@ -2,7 +2,6 @@
 	"name": "Crafting",
 	"icon": "minecraft:crafting_table",
 	"category": "knowledgebooks:gameplay",
-	"sortnum": "2",
 	"turnin": "minecraft:story/root",
 	"pages": [
 		{

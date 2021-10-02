@@ -2,7 +2,6 @@
 	"name": "Shovel",
 	"icon": "minecraft:iron_shovel",
 	"category": "knowledgebooks:tools",
-	"sortnum": "4",
 	"advancement": "minecraft:story/root",
 	"pages": [
 		{

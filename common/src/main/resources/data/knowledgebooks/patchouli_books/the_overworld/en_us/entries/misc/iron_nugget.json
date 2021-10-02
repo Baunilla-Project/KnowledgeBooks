@@ -2,7 +2,7 @@
 	"name": "Iron Nugget",
 	"icon": "minecraft:iron_nugget",
 	"category": "knowledgebooks:misc",
-	"advancement": "minecraft:recipes/misc/iron_nugget",
+	"advancement": "minecraft:story/upgrade_tools",
 	"pages": [
 		{
 			"type": "spotlight",
@@ -11,10 +11,12 @@
 		},
 		{
 			"type": "crafting",
+			"advancement": "minecraft:recipes/misc/iron_nugget",
 			"recipe": "minecraft:iron_nugget"
 		},
 		{
 			"type": "smelting",
+			"advancement": "minecraft:recipes/misc/iron_nugget_from_smelting",
 			"recipe": "minecraft:iron_nugget_from_smelting"
 		},
 		{

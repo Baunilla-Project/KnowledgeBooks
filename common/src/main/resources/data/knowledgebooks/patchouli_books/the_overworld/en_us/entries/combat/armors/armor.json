@@ -2,7 +2,7 @@
 	"name": "Armor",
 	"icon": "minecraft:iron_chestplate",
 	"category": "knowledgebooks:combat/armors",
-	"sortnum": "1",
+	"sortnum": "-1",
 	"turnin": "minecraft:story/shiny_gear",
 	"advancement": "minecraft:story/root",
 	"pages": [

@@ -2,7 +2,7 @@
 	"name": "Block of Diamond",
 	"icon": "minecraft:diamond_block",
 	"category": "knowledgebooks:building",
-	"advancement": "minecraft:recipes/building_blocks/diamond_block",
+	"advancement": "minecraft:story/smelt_iron",
 	"pages": [
 		{
 			"type": "spotlight",
@@ -11,6 +11,7 @@
 		},
 		{
 			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/diamond_block",
 			"recipe": "minecraft:diamond_block"
 		},
 		{

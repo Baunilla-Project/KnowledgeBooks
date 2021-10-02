@@ -2,7 +2,6 @@
 	"name": "Smelting",
 	"icon": "minecraft:furnace",
 	"category": "knowledgebooks:gameplay",
-	"sortnum": "3",
 	"turnin": "minecraft:story/smelt_iron",
 	"advancement": "minecraft:story/mine_stone",
 	"pages": [

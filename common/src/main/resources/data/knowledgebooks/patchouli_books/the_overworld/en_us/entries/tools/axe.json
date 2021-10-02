@@ -2,7 +2,6 @@
 	"name": "Axe",
 	"icon": "minecraft:iron_axe",
 	"category": "knowledgebooks:tools",
-	"sortnum": "3",
 	"advancement": "minecraft:story/root",
 	"pages": [
 		{

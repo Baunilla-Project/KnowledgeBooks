@@ -1,0 +1,13 @@
+{
+    "parent": "knowledgebooks:books/root",
+    "rewards": {
+        "loot": [
+            "knowledgebooks:gameplay/rewards/knowledge_book"
+        ]
+    },
+    "criteria": {
+        "location": {
+            "trigger": "minecraft:location"
+        }
+    }
+}

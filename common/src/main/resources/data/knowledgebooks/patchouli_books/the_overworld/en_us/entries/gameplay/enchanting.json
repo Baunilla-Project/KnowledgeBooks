@@ -2,7 +2,6 @@
 	"name": "Enchanting",
 	"icon": "minecraft:enchanting_table",
 	"category": "knowledgebooks:gameplay",
-	"sortnum": "4",
 	"turnin": "minecraft:story/enchant_item",
 	"advancement": "minecraft:story/mine_diamond",
 	"pages": [

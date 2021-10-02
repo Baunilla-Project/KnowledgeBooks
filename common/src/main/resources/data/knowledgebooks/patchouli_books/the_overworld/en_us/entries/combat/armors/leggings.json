@@ -2,7 +2,7 @@
 	"name": "Leggings",
 	"icon": "minecraft:leather_leggings",
 	"category": "knowledgebooks:combat/armors",
-	"sortnum": "4",
+	"sortnum": "3",
 	"advancement": "minecraft:story/root",
 	"pages": [
 		{

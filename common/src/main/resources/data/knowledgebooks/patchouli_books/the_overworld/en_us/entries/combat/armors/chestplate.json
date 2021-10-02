@@ -2,7 +2,7 @@
 	"name": "Chestplate",
 	"icon": "minecraft:leather_chestplate",
 	"category": "knowledgebooks:combat/armors",
-	"sortnum": "3",
+	"sortnum": "2",
 	"advancement": "minecraft:story/root",
 	"pages": [
 		{

@@ -2,7 +2,6 @@
 	"name": "Breaking",
 	"icon": "minecraft:wooden_pickaxe",
 	"category": "knowledgebooks:gameplay",
-	"sortnum": "1",
 	"pages": [
 		{
 			"type": "text",

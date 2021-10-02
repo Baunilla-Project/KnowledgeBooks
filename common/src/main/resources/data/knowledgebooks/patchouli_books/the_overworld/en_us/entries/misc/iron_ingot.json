@@ -2,7 +2,7 @@
 	"name": "Iron Ingot",
 	"icon": "minecraft:iron_ingot",
 	"category": "knowledgebooks:misc",
-	"advancement": "minecraft:story/mine_stone",
+	"advancement": "minecraft:story/upgrade_tools",
 	"pages": [
 		{
 			"type": "spotlight",

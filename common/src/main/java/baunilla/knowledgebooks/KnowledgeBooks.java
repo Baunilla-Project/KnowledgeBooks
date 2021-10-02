@@ -8,7 +8,7 @@ public class KnowledgeBooks {
 	public static final String MOD_NAME = "Knowledge Books";
 
 	public static void init() {
-		log(Level.INFO, MOD_NAME+" mod initialized");
+		log(Level.INFO, "Initialized");
 	}
 
 	public static void log(Level level, String message) {

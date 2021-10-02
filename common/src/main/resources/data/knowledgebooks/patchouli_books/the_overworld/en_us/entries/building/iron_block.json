@@ -2,7 +2,7 @@
 	"name": "Block of Iron",
 	"icon": "minecraft:iron_block",
 	"category": "knowledgebooks:building",
-	"advancement": "minecraft:recipes/building_blocks/iron_block",
+	"advancement": "minecraft:story/upgrade_tools",
 	"pages": [
 		{
 			"type": "spotlight",
@@ -11,6 +11,7 @@
 		},
 		{
 			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/iron_block",
 			"recipe": "minecraft:iron_block"
 		},
 		{

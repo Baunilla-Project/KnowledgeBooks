@@ -4,8 +4,7 @@
 	"category": "knowledgebooks:building",
 	"pages": [
 		{
-			"type": "spotlight",
-			"item": "minecraft:oak_planks",
+			"type": "text",
 			"text": "$(l)Planks$() are common blocks used as building blocks and in $(l:gameplay/crafting)crafting$() recipes. They are one of the first things that a player can craft. "
 		},
 		{

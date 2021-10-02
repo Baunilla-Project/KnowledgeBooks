@@ -4,8 +4,7 @@
 	"category": "knowledgebooks:building",
 	"pages": [
 		{
-			"type": "spotlight",
-			"item": "minecraft:oak_wood",
+			"type": "text",
 			"text": "$(l)Wood$() is a block that has the $(l:building/log)log$()'s \"bark\" texture on all six sides. "
 		},
 		{
@@ -39,8 +38,7 @@
 			"recipe": "minecraft:dark_oak_wood"
 		},
 		{
-			"type": "spotlight",
-			"item": "minecraft:stripped_oak_wood",
+			"type": "text",
 			"text": "$(l)Stripped wood$() is a variant obtained when any axe is used on wood."
 		},
 		{
