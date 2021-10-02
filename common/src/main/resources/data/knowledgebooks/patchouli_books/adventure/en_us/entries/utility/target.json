@@ -1,0 +1,27 @@
+{
+	"name": "Target",
+	"icon": "minecraft:target",
+	"category": "knowledgebooks:utility",
+	"turnin": "minecraft:adventure/bullseye",
+	"pages": [
+		{
+			"type": "text",
+			"text": "A $(l)target$() is a block that provides a temporary redstone charge when hit by a projectile. It also has utility in redstone circuitry for redirecting redstone dust, making it a useful redstone component. "
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:target",
+			"advancement": "minecraft:recipes/decorations/target"
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:adventure/bullseye",
+			"title": "Bullseye",
+			"text": "Hit the bullseye of a Target block from at least 30 meters away. "
+		},
+		{
+			"type": "relations",
+			"entries": []
+		}
+	]
+}
