@@ -8,7 +8,7 @@
     "parent": "knowledgebooks:books/root",
     "rewards": {
         "loot": [
-            "knowledgebooks:gameplay/rewards/books/farmersdelight"
+            "knowledgebooks:gameplay/rewards/farmersdelight_book"
         ]
     },
     "criteria": {

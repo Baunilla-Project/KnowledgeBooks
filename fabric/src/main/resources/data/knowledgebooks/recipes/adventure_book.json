@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "knowledgebooks:books",
+	"ingredients": [
+		{
+			"item": "minecraft:book"
+		},
+		{
+			"tag": "knowledgebooks:mob_drops"
+		}
+	],
+	"result": {
+		"item": "patchouli:guide_book",
+		"data": {
+			"patchouli:book": "knowledgebooks:adventure"
+		}
+	}
+}

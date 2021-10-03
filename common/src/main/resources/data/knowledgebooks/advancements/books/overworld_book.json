@@ -1,14 +1,8 @@
 {
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "create"
-        }
-    ],
     "parent": "knowledgebooks:books/root",
     "rewards": {
         "loot": [
-            "knowledgebooks:gameplay/rewards/books/create"
+            "knowledgebooks:gameplay/rewards/overworld_book"
         ]
     },
     "criteria": {

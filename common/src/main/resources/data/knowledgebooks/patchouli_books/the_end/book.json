@@ -3,6 +3,6 @@
 	"subtitle": "The End dimension",
 	"landing_text": "The End is a dark, space-like dimension consisting of separate islands in the void.",
 	"book_texture": "knowledgebooks:textures/gui/book/the_end_book.png",
-	"model": "knowledgebooks:book/the_end_book",
+	"model": "knowledgebooks:end_book",
 	"advancements_tab": "minecraft:end/root"
 }

@@ -2,7 +2,7 @@
 	"parent": "minecraft:recipes/root",
 	"rewards": {
 		"recipes": [
-			"knowledgebooks:the_overworld"
+			"knowledgebooks:nether_book"
 		]
 	},
 	"criteria": {
@@ -19,7 +19,7 @@
 		"has_the_recipe": {
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
-				"recipe": "knowledgebooks:the_overworld"
+				"recipe": "knowledgebooks:nether_book"
 			}
 		}
 	},

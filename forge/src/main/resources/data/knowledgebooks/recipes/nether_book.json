@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "knowledgebooks:books",
+	"ingredients": [
+		{
+			"item": "minecraft:book"
+		},
+		{
+			"item": "minecraft:lava_bucket"
+		}
+	],
+	"result": {
+		"item": "patchouli:guide_book",
+		"nbt": "{\"patchouli:book\":\"knowledgebooks:the_nether\"}"
+	}
+}

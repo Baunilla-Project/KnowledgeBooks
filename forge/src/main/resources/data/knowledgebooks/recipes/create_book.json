@@ -2,25 +2,21 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "farmersdelight"
+			"modid": "create"
 		}
 	],
 	"type": "minecraft:crafting_shapeless",
+	"group": "knowledgebooks:books",
 	"ingredients": [
 		{
 			"item": "minecraft:book"
 		},
 		{
-			"item": "farmersdelight:straw"
+			"item": "create:andesite_alloy"
 		}
 	],
 	"result": {
 		"item": "patchouli:guide_book",
-		"functions": [
-			{
-				"function": "set_nbt",
-				"tag": "{\"patchouli:book\": \"farmersdelight\"}"
-			}
-		]
+		"nbt": "{\"patchouli:book\":\"knowledgebooks:create\"}"
 	}
 }
