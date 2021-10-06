@@ -27,10 +27,11 @@
     "patchouli": ">=1.16.4-50"
   },
   "suggests": {
-		"modmenu": "*",
-		"modsoftheworld": "*"
-	},
-	"custom": {
-		"modsoftheworld:splashes": "knowledgebooks:texts/splashes.txt"
-	}
+    "modmenu": "*",
+    "modsoftheworld": "*",
+    "nbtcrafting": "*"
+  },
+  "custom": {
+    "modsoftheworld:splashes": "knowledgebooks:texts/splashes.txt"
+  }
 }
