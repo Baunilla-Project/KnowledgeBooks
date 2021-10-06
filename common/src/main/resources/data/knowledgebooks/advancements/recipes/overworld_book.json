@@ -2,7 +2,7 @@
 	"parent": "minecraft:recipes/root",
 	"rewards": {
 		"recipes": [
-			"knowledgebooks:husbandry"
+			"knowledgebooks:overworld_book"
 		]
 	},
 	"criteria": {
@@ -19,7 +19,7 @@
 		"has_the_recipe": {
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
-				"recipe": "knowledgebooks:husbandry"
+				"recipe": "knowledgebooks:overworld_book"
 			}
 		}
 	},

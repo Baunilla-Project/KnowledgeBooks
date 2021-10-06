@@ -11,6 +11,13 @@ architectury {
     fabric()
 }
 
+repositories {
+    maven {
+        name "Siphalor's Maven"
+        url "https://maven.siphalor.de"
+    }
+}
+
 dependencies {
     modImplementation "net.fabricmc:fabric-loader:${rootProject.fabric_loader_version}"
     modApi "net.fabricmc.fabric-api:fabric-api:${rootProject.fabric_api_version}"
@@ -18,6 +25,13 @@ dependencies {
     modApi "me.shedaniel:architectury-fabric:${rootProject.architectury_version}"
     // Patchouli
     modImplementation "vazkii.patchouli:Patchouli:${rootProject.patchouli_version}-FABRIC-SNAPSHOT"
+    // NBT Crafting
+    include(modImplementation ("de.siphalor:nbtcrafting-${rootProject.minecraft_major_version}:${rootProject.nbtcrafting_version}") {
+        exclude group: ("net.fabricmc.fabric-api")
+        exclude module: "modmenu"
+        exclude module: "RoughlyEnoughItems"
+        exclude module: "ModsOfTheWorld"
+    })
 
     implementation(project(path: ":common")) {
         transitive = false

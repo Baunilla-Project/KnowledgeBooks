@@ -8,7 +8,7 @@
 	"parent": "minecraft:recipes/root",
 	"rewards": {
 		"recipes": [
-			"knowledgebooks:create"
+			"knowledgebooks:create_book"
 		]
 	},
 	"criteria": {
@@ -25,7 +25,7 @@
 		"has_the_recipe": {
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
-				"recipe": "knowledgebooks:create"
+				"recipe": "knowledgebooks:create_book"
 			}
 		}
 	},
