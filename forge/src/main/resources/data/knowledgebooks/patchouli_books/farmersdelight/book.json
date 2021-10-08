@@ -4,5 +4,6 @@
 	"landing_text": "This guide will teach you some of the basics of Farmer's Delight.",
 	"book_texture": "patchouli:textures/gui/book_green.png",
 	"model": "minecraft:knowledge_book",
-	"advancements_tab": "farmersdelight:main/root"
+	"advancements_tab": "farmersdelight:main/root",
+	"i18n": true
 }

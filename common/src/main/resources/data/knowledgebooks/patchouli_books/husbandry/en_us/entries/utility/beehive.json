@@ -1,16 +1,16 @@
 {
-	"name": "Beehive/Bee Nest",
+	"name": "books.husbandry.beehives.name",
 	"icon": "minecraft:bee_nest",
 	"category": "knowledgebooks:utility",
 	"pages": [
 		{
 			"type": "text",
-			"text": "$(li)Can $(l:gameplay/bee_housing)house$(/l) $(l:mobs/bee)bees$(/l). $(li)Fills up with honey."
+			"text": "books.husbandry.beehives.text"
 		},
 		{
 			"type": "spotlight",
 			"item": "minecraft:beehive",
-			"text": "Beehives are crafted versions of bee nests."
+			"text": "books.husbandry.beehive.text"
 		},
 		{
 			"type": "crafting",
@@ -20,7 +20,7 @@
 			"type": "spotlight",
 			"item": "minecraft:bee_nest",
 			"anchor": "nest",
-			"text": "Oak and birch trees grown from saplings that are within 2 blocks of any flower have 5% chance to grow with a bee nest with 1–3 $(l:mobs/bee)bees$(/l) in it.",
+			"text": "books.husbandry.bee_nest.text",
 			"link_recipe": true
 		},
 		{

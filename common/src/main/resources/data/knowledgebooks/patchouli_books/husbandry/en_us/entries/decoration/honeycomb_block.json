@@ -1,12 +1,12 @@
 {
-	"name": "Honeycomb Block",
+	"name": "block.minecraft.honeycomb_block",
 	"icon": "minecraft:honeycomb_block",
 	"category": "knowledgebooks:decoration",
 	"pages": [
 		{
 			"type": "spotlight",
 			"item": "minecraft:honeycomb_block",
-			"text": "Decorative block."
+			"text": "books.husbandry.honeycomb_block.text"
 		},
 		{
 			"type": "crafting",

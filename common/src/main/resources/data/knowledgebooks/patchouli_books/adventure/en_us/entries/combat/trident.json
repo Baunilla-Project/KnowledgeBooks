@@ -1,5 +1,5 @@
 {
-	"name": "Trident",
+	"name": "item.minecraft.trident",
 	"icon": "minecraft:trident",
 	"category": "knowledgebooks:combat",
 	"turnin": "minecraft:adventure/throw_trident",
@@ -8,13 +8,13 @@
 			"type": "spotlight",
 			"item": "minecraft:trident",
 			"link_recipe": true,
-			"text": "A $(l)trident$() is a weapon used in both melee and ranged combat and is a rare drop from $(l:mobs/zombie#drowned)drowned$(). "
+			"text": "books.adventure.trident.text"
 		},
 		{
 			"type": "quest",
 			"trigger": "minecraft:adventure/throw_trident",
-			"title": "A Throwaway Joke",
-			"text": "Throw a $(l)trident$() at something. $(o)Note: Throwing away your only weapon is not a good idea.$() "
+			"title": "advancements.adventure.throw_trident.title",
+			"text": "advancements.adventure.throw_trident.text"
 		},
 		{
 			"type": "relations",

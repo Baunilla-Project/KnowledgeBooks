@@ -1,8 +1,9 @@
 {
-	"name": "Agriculture Manual",
-	"subtitle": "How to husbandry",
-	"landing_text": "Farming refers to the systematic production of renewable resources. The technique is typically used to get blocks, food, experience and other desired items.",
+	"name": "books.husbandry.name",
+	"subtitle": "books.husbandry.subtitle",
+	"landing_text": "books.husbandry.landing_text",
 	"book_texture": "knowledgebooks:textures/gui/book/agriculture_book.png",
 	"model": "knowledgebooks:husbandry_book",
-	"advancements_tab": "minecraft:husbandry/root"
+	"advancements_tab": "minecraft:husbandry/root",
+	"i18n": true
 }

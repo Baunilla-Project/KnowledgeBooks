@@ -1,11 +1,13 @@
 {
-	"name": "Spectral Arrow",
+	"name": "item.minecraft.spectral_arrow",
 	"icon": "minecraft:spectral_arrow",
 	"category": "knowledgebooks:combat",
-	"pages": [{
-		"type": "text",
-		"text": "A $(l)spectral arrow$() confers the Glowing status effect for 10 seconds."
-		}, {
+	"pages": [
+		{
+			"type": "text",
+			"text": "books.adventure.spectral_arrow.text"
+		},
+		{
 			"type": "crafting",
 			"advancement": "minecraft:recipes/combat/spectral_arrow",
 			"recipe": "minecraft:spectral_arrow"

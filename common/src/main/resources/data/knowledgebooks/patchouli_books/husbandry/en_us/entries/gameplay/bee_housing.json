@@ -1,18 +1,18 @@
 {
-	"name": "Bee Housing",
+	"name": "books.husbandry.bee_housing.name",
 	"icon": "minecraft:bee_nest",
 	"category": "knowledgebooks:gameplay",
 	"turnin": "minecraft:husbandry/silk_touch_nest",
 	"pages": [
 		{
 			"type": "text",
-			"text": "The $(l:utility/beehive)hives$(/l) can house up to 3 $(l:mobs/bee)bees$(/l) at a time. Bees fly into the nest at night, during rain, and after pollinating.$(br)Igniting the hive causes all bees inside to escape from it."
+			"text": "books.husbandry.bee_housing.text"
 		},
 		{
 			"type": "quest",
 			"trigger": "minecraft:husbandry/silk_touch_nest",
-			"title": "Total Beelocation",
-			"text": "Move a $(l:utility/beehive#nest)Bee Nest$(), with 3 $(l:mobs/bee)bees$() inside, using the Silk Touch enchantment"
+			"title": "advancements.husbandry.silk_touch_nest.title",
+			"text": "advancements.adventure.silk_touch_nest.text"
 		},
 		{
 			"type": "relations",

@@ -1,11 +1,13 @@
 {
-	"name": "Tipped Arrow",
+	"name": "item.minecraft.tipped_arrow",
 	"icon": "minecraft:tipped_arrow",
 	"category": "knowledgebooks:combat",
-	"pages": [{
-		"type": "text",
-		"text": "$(l)Tipped arrows$() are arrows that imbue a potion effect when hitting a mob or player."
-		}, {
+	"pages": [
+		{
+			"type": "text",
+			"text": "books.adventure.tipped_arrow.text"
+		},
+		{
 			"type": "crafting",
 			"advancement": "minecraft:recipes/combat/tipped_arrow",
 			"recipe": "minecraft:arrow"

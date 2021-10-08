@@ -1,5 +1,5 @@
 {
-	"name": "Honeycomb",
+	"name": "item.minecraft.honeycomb",
 	"icon": "minecraft:honeycomb",
 	"category": "knowledgebooks:misc",
 	"pages": [
@@ -7,7 +7,7 @@
 			"type": "spotlight",
 			"item": "minecraft:honeycomb",
 			"link_recipe": true,
-			"text": "Collected by shearing full $(l:utility/beehive)beehives$(/l)."
+			"text": "books.husbandry.honeycomb.text"
 		}
 	]
 }

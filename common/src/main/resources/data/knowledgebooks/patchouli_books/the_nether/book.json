@@ -4,5 +4,6 @@
 	"landing_text": "The Nether is a dangerous hell-like dimension filled with fire, lava, fungus-based vegetation, and many hostile mobs.",
 	"book_texture": "knowledgebooks:textures/gui/book/the_nether_book.png",
 	"model": "knowledgebooks:nether_book",
-	"advancements_tab": "minecraft:nether/root"
+	"advancements_tab": "minecraft:nether/root",
+	"i18n": true
 }

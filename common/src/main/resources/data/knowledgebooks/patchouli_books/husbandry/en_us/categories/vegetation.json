@@ -1,5 +1,5 @@
 {
-	"name": "Natural Blocks",
-	"description": "Cultivated plants or agricultural produce, such as grain, vegetables, considered as a group.",
+	"name": "books.husbandry.vegetation.name",
+	"description": "books.husbandry.vegetation.description",
 	"icon": "minecraft:oak_sapling"
 }

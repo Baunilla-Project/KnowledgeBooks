@@ -1,5 +1,5 @@
 {
-	"name": "Honey Bottle",
+	"name": "item.minecraft.honey_bottle",
 	"icon": "minecraft:honey_bottle",
 	"category": "knowledgebooks:food",
 	"turnin": "minecraft:husbandry/safely_harvest_honey",
@@ -8,13 +8,13 @@
 			"type": "spotlight",
 			"item": "minecraft:honey_bottle",
 			"link_recipe": true,
-			"text": "Collected by using a bottle on full $(l:utility/beehive)beehives$(/l)."
+			"text": "books.husbandry.honey_bottle.text"
 		},
 		{
 			"type": "quest",
 			"trigger": "minecraft:husbandry/safely_harvest_honey",
-			"title": "Bee Our Guest",
-			"text": "Use a Campfire to collect $(l)Honey$() from a $(l:utility/beehive)Beehive$() using a Bottle without aggravating the $(l:mobs/bee)bees$(). $(br) "
+			"title": "advancements.husbandry.safely_harvest_honey.title",
+			"text": "advancements.husbandry.safely_harvest_honey.text"
 		},
 		{
 			"type": "relations",
