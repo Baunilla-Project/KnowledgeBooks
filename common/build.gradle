@@ -14,6 +14,14 @@ java {
     withSourcesJar()
 }
 
+sourceSets {
+    common {
+        resources {
+            srcDir 'common/src/main/resources/data/knowledgebooks/patchouli_books' 
+        }
+    }
+}
+
 publishing {
     publications {
         mavenCommon(MavenPublication) {
