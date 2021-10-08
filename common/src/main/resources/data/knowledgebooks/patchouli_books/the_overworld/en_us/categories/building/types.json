@@ -1,6 +1,6 @@
 {
-	"name": "Block Types",
-	"description": "Blocks can take many different forms, here's a few od these.",
+	"name": "books.overworld.building.types.name",
+	"description": "books.overworld.building.types.description",
 	"icon": "minecraft:cobblestone_stairs",
 	"parent": "knowledgebooks:building"
 }

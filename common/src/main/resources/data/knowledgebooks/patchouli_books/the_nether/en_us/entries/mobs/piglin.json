@@ -1,17 +1,20 @@
 {
-	"name": "Piglin",
+	"name": "entity.minecraft.piglin",
 	"icon": "minecraft:player_head{SkullOwner:{Id:[I;37376975,-2007479602,-1737372165,-631950536],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDNjZTAyMzc0N2M3ODI5YjUxYWI5Y2Q2NmU3OGEyMDM0ZDhmOTg4OTIyMzQyYTQ0ZWU1NmI3YWI1YzVmNTA1YSJ9fX0=\"}]}}}",
 	"category": "knowledgebooks:mobs",
-	"pages": [{
-		"type": "text",
-		"text": "Piglins are neutral mobs found in the Nether. Players can barter using gold ingots to receive various items."
-	}, {
-		"type": "entity",
-		"entity": "minecraft:piglin",
-		"name": "Aparence"
-	}, {
-		"type": "text",
-		"title": "Spawning",
-		"text": "Piglins spawn in groups of 4 in nether wastes and crimson forest biomes, and within bastion remnants, at a light level of 11 or less, even in Peaceful mode. 5% of piglins spawned are babies."
-	}]
+	"pages": [
+		{
+			"type": "text",
+			"text": "books.nether.piglin.text"
+		},
+		{
+			"type": "entity",
+			"entity": "minecraft:piglin"
+		},
+		{
+			"type": "text",
+			"title": "books.nether.piglin.spawn.title",
+			"text": "books.nether.piglin.spawn.text"
+		}
+	]
 }

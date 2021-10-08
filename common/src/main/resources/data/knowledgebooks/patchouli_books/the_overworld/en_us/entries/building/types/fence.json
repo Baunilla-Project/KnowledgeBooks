@@ -1,5 +1,5 @@
 {
-	"name": "Fence and Gate",
+	"name": "books.overworld.fence.name",
 	"icon": "minecraft:oak_fence",
 	"category": "knowledgebooks:building/types",
 	"pages": [

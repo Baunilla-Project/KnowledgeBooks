@@ -1,5 +1,5 @@
 {
-	"name": "Building Blocks",
-	"description": "Blocks used mainly used as a material for building.",
+	"name": "books.end.building.name",
+	"description": "books.end.building.description",
 	"icon": "minecraft:end_stone"
 }

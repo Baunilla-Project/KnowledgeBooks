@@ -1,6 +1,6 @@
 {
-	"name": "Armors",
-	"description": "Armor is a category of items that provide players and certain mobs with varying levels of protection from common damage types, and appear graphically on the wearer.",
+	"name": "books.overworld.combat.armors.name",
+	"description": "books.overworld.combat.armors.description",
 	"icon": "minecraft:leather_chestplate",
 	"parent": "knowledgebooks:combat"
 }

@@ -1,11 +1,11 @@
 {
-	"name": "Shulker Box",
+	"name": "block.minecraft.shulker_box",
 	"icon": "minecraft:shulker_box",
 	"category": "knowledgebooks:utility",
 	"pages": [
 		{
 			"type": "text",
-			"text": "A $(l)shulker box$() is a block that can store and transport items."
+			"text": "books.end.shulker_box.text"
 		},
 		{
 			"type": "crafting",

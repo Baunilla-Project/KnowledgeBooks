@@ -1,6 +1,6 @@
 {
-	"name": "Redstone Circuits",
-	"description": "Articles describing various types of redstone circuits. ",
+	"name": "books.overworld.utility.redstone.circuits.name",
+	"description": "books.overworld.utility.redstone.circuits.description",
 	"icon": "minecraft:comparator",
 	"parent": "knowledgebooks:utility/redstone"
 }

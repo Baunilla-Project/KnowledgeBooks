@@ -1,6 +1,6 @@
 {
-	"name": "Decoration Blocks",
-	"description": "Blocks used mainly as decoration on buildings.",
+	"name": "books.overworld.decoration.name",
+	"description": "books.overworld.decoration.description",
 	"icon": "minecraft:oak_leaves",
 	"sortnum": "2"
 }

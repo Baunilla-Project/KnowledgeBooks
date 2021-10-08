@@ -1,5 +1,5 @@
 {
-	"name": "Structures",
-	"description": "Nether Structures",
+	"name": "books.nether.structures.name",
+	"description": "books.nether.structures.description",
 	"icon": "minecraft:obsidian"
 }

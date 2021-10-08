@@ -1,6 +1,6 @@
 {
-	"name": "Utility Blocks",
-	"description": "Useful blocks that helps you progress.",
+	"name": "books.overworld.utility.name",
+	"description": "books.overworld.utility.description",
 	"icon": "minecraft:crafting_table",
 	"sortnum": "2"
 }

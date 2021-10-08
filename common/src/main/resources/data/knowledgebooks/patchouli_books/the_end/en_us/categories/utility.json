@@ -1,5 +1,5 @@
 {
-	"name": "Utility Blocks",
-	"description": "Useful blocks that helps you progress.",
-	"icon": "minecraft:crafting_table"
+	"name": "books.end.utility.name",
+	"description": "books.end.utility.description",
+	"icon": "minecraft:ender_chest"
 }
