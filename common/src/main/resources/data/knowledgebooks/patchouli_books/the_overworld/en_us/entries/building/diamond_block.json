@@ -1,5 +1,5 @@
 {
-	"name": "Block of Diamond",
+	"name": "block.minecraft.diamond_block",
 	"icon": "minecraft:diamond_block",
 	"category": "knowledgebooks:building",
 	"advancement": "minecraft:story/smelt_iron",
@@ -7,7 +7,7 @@
 		{
 			"type": "spotlight",
 			"item": "minecraft:diamond_block",
-			"text": "A $(l)block of diamond$() is a precious mineral block equivalent to nine $(l:misc/diamond)diamonds$(). "
+			"text": "books.overworld.diamond_block.text"
 		},
 		{
 			"type": "crafting",

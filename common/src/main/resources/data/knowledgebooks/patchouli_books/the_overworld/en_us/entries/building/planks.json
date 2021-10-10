@@ -1,11 +1,11 @@
 {
-	"name": "Planks",
+	"name": "books.overworld.planks.name",
 	"icon": "minecraft:oak_planks",
 	"category": "knowledgebooks:building",
 	"pages": [
 		{
 			"type": "text",
-			"text": "$(l)Planks$() are common blocks used as building blocks and in $(l:gameplay/crafting)crafting$() recipes. They are one of the first things that a player can craft. "
+			"text": "books.overworld.planks.text"
 		},
 		{
 			"type": "crafting",

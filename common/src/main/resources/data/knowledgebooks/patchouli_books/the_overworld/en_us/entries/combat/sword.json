@@ -1,12 +1,12 @@
 {
-	"name": "Sword",
+	"name": "books.overworld.sword.name",
 	"icon": "minecraft:iron_sword",
 	"category": "knowledgebooks:combat",
 	"advancement": "minecraft:story/root",
 	"pages": [
 		{
 			"type": "text",
-			"text": "A $(l)sword$() is a melee weapon that is mainly used to damage entities and for mining cobwebs or bamboo. "
+			"text": "books.overworld.sword.text"
 		},
 		{
 			"type": "crafting",

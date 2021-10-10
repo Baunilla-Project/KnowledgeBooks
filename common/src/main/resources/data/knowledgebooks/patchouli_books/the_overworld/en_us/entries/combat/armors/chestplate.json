@@ -1,5 +1,5 @@
 {
-	"name": "Chestplate",
+	"name": "books.overworld.chestplate.name",
 	"icon": "minecraft:leather_chestplate",
 	"category": "knowledgebooks:combat/armors",
 	"sortnum": "2",
@@ -7,7 +7,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "$(l)Chestplates$() are a type of $(l:combat/armors/armor)armor$() that covers the upper body of the player."
+			"text": "books.overworld.chestplate.text"
 		},
 		{
 			"type": "crafting",

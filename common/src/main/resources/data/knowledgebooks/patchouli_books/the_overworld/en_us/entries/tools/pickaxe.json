@@ -1,5 +1,5 @@
 {
-	"name": "Pickaxe",
+	"name": "books.overworld.pickaxe.name",
 	"icon": "minecraft:iron_pickaxe",
 	"category": "knowledgebooks:tools",
 	"turnin": "minecraft:story/iron_tools",
@@ -7,21 +7,21 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "A $(l)pickaxe$() is one of the most commonly used $(l:tools/tool)tools$() in the game, being required to mine all ores, rock, rock-based blocks and metal-based blocks. A pickaxe allows the player to mine blocks at faster speeds, depending on the material it is made from. Specific pickaxe materials are also required to harvest certain types of blocks. "
+			"text": "books.overworld.pickaxe.text"
 		},
 		{
 			"type": "quest",
 			"trigger": "minecraft:story/upgrade_tools",
 			"advancement": "minecraft:story/mine_stone",
-			"title": "Getting an Upgrade",
-			"text": "Construct a better pickaxe.$(br2)Have a stone pickaxe in your inventory."
+			"title": "advancements.story.upgrade_tools.title",
+			"text": "advancements.story.upgrade_tools.text"
 		},
 		{
 			"type": "quest",
 			"trigger": "minecraft:story/iron_tools",
 			"advancement": "minecraft:story/upgrade_tools",
-			"title": "Isn't It Iron Pick",
-			"text": "Upgrade your pickaxe.$(br2)Have an iron pickaxe in your inventory."
+			"title": "advancements.story.iron_tools.title",
+			"text": "advancements.story.iron_tools.text"
 		},
 		{
 			"type": "crafting",

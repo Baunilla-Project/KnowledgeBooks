@@ -1,11 +1,11 @@
 {
-	"name": "Wood",
+	"name": "books.overworld.wood.name",
 	"icon": "minecraft:oak_wood",
 	"category": "knowledgebooks:building",
 	"pages": [
 		{
 			"type": "text",
-			"text": "$(l)Wood$() is a block that has the $(l:building/log)log$()'s \"bark\" texture on all six sides. "
+			"text": "books.overworld.wood.text"
 		},
 		{
 			"type": "crafting",
@@ -39,7 +39,7 @@
 		},
 		{
 			"type": "text",
-			"text": "$(l)Stripped wood$() is a variant obtained when any axe is used on wood."
+			"text": "books.overworld.stripped_wood.text"
 		},
 		{
 			"type": "crafting",

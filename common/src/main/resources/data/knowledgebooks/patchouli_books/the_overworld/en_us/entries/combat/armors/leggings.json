@@ -1,5 +1,5 @@
 {
-	"name": "Leggings",
+	"name": "books.overworld.leggings.name",
 	"icon": "minecraft:leather_leggings",
 	"category": "knowledgebooks:combat/armors",
 	"sortnum": "3",
@@ -7,7 +7,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "$(l)Leggings$() are a type of $(l:combat/armors/armor)armor$() that covers the lower body of the player."
+			"text": "books.overworld.leggings.text"
 		},
 		{
 			"type": "crafting",

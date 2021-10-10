@@ -1,12 +1,12 @@
 {
-	"name": "Shovel",
+	"name": "books.overworld.shovel.name",
 	"icon": "minecraft:iron_shovel",
 	"category": "knowledgebooks:tools",
 	"advancement": "minecraft:story/root",
 	"pages": [
 		{
 			"type": "text",
-			"text": "$(l)Shovels$() are $(l:tools/tool)tools$() used to ease the process of collecting $(l:building/dirt)dirt$(), $(l:building/sand)sand$() and other blocks. "
+			"text": "books.overworld.shovel.text"
 		},
 		{
 			"type": "crafting",

@@ -1,5 +1,5 @@
 {
-	"name": "Helmet",
+	"name": "books.overworld.helmet.name",
 	"icon": "minecraft:leather_helmet",
 	"category": "knowledgebooks:combat/armors",
 	"sortnum": "1",
@@ -7,7 +7,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "$(l)Helmets$() are a type of $(l:combat/armors/armor)armor$() that covers the head of the player. "
+			"text": "books.overworld.helmet.text"
 		},
 		{
 			"type": "crafting",

@@ -1,12 +1,12 @@
 {
-	"name": "Grass Block",
+	"name": "block.minecraft.grass_block",
 	"icon": "minecraft:grass_block",
 	"category": "knowledgebooks:building",
 	"pages": [
 		{
 			"type": "spotlight",
 			"item": "minecraft:grass_block",
-			"text": "A $(l)grass block$() is a natural block that generates abundantly across the surface of the Overworld. "
+			"text": "books.overworld.grass_block.text"
 		},
 		{
 			"type": "relations",

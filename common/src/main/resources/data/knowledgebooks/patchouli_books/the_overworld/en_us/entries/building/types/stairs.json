@@ -1,12 +1,12 @@
 {
-	"name": "Stairs",
+	"name": "books.overworld.stairs.name",
 	"icon": "minecraft:cobblestone_stairs",
 	"category": "knowledgebooks:building/types",
 	"pages": [
 		{
 			"type": "spotlight",
 			"item": "minecraft:cobblestone_stairs",
-			"text": "$(l)Stairs$() are blocks that allow mobs and players to change elevation without jumping. "
+			"text": "books.overworld.stairs.text"
 		}
 	]
 }

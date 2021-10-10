@@ -1,11 +1,11 @@
 {
-	"name": "Log",
+	"name": "books.overworld.log.name",
 	"icon": "minecraft:oak_log",
 	"category": "knowledgebooks:building",
 	"pages": [
 		{
 			"type": "text",
-			"text": "A $(l)log$() is a naturally occurring block found in trees, primarily used as a building block, and to create $(building/planks)planks$(), a versatile $(gameplay/crafting)crafting$() ingredient."
+			"text": "books.overworld.log.text"
 		},
 		{
 			"type": "spotlight",
@@ -39,7 +39,7 @@
 		},
 		{
 			"type": "text",
-			"text": "A $(l)stripped log$() is a variant obtained by using an axe on a log. Once stripped, it cannot be reversed. "
+			"text": "books.overworld.stripped_log.text"
 		},
 		{
 			"type": "spotlight",

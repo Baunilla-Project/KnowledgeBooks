@@ -1,12 +1,12 @@
 {
-	"name": "Stick",
+	"name": "item.minecraft.stick",
 	"icon": "minecraft:stick",
 	"category": "knowledgebooks:misc",
 	"pages": [
 		{
 			"type": "spotlight",
 			"item": "minecraft:stick",
-			"text": "A $(l)stick$() is an item used for $(l:gameplay/crafting)crafting$() many $(l:tools)tools$() and items.  "
+			"text": "books.overworld.stick.text"
 		},
 		{
 			"type": "crafting",
