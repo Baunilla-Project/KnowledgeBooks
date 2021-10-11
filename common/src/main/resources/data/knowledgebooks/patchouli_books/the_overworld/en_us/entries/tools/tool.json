@@ -1,6 +1,6 @@
 {
 	"name": "books.overworld.tool.name",
-	"icon": "minecraft:crafting_table",
+	"icon": "minecraft:wooden_pickaxe",
 	"category": "knowledgebooks:tools",
 	"sortnum": "-1",
 	"turnin": "minecraft:story/mine_stone",

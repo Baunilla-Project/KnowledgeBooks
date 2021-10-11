@@ -100,7 +100,7 @@
 	"books.nether.structures.name": "Structures",
 	"books.nether.structures.description": "Nether Structures",
 
-	"books.nether.base_ingredients.name": "Base Ingredients/Modifiers",
+	"books.nether.base_ingredients.name": "Base Ingredients",
 	"books.nether.base_ingredients.text": "$(l)Base ingredients$() are ingredients that can be added directly to a water bottle and are the starting point of all potions. Nether wart is the most fundamental of the base ingredients, as it is required to make the vast majority of potions.",
 	"books.nether.base_ingredients.nether_wart.text": "Results into an Awkward Potion. Allows the creation of more complex potions.",
 	"books.nether.base_ingredients.redstone.text": "Results into an Mundane Potion. Extends the duration of a potion.",
@@ -234,7 +234,7 @@
 	"advancements.story.iron_tools.text": "Upgrade your pickaxe.$(br2)Have an iron pickaxe in your inventory.",
 	"advancements.story.lava_bucket.text": "Fill a bucket with lava. $(br2)Have a lava bucket in your inventory.",
 	"advancements.story.mine_diamond.text": "Acquire diamonds . $(br2)Have a diamond in your inventory.",
-	"advancements.story.smelt_iron.text": "Smelt an &(l:misc/iron_ingot)iron ingot&(). $(br2)Have an iron ingot in your inventory.",
+	"advancements.story.smelt_iron.text": "Smelt an $(l:misc/iron_ingot)iron ingot$(). $(br2)Have an iron ingot in your inventory.",
 	"advancements.story.enchant_item.text": "$(l)Enchant$() an item at an $(l:utility/enchanting_table)Enchantment Table$()  $(br2)Insert an item in an enchanting table, then apply an enchantment.",
 	"advancements.story.deflect_arrow.text": "Block a projectile using your shield. $(br2)Block any projectile with a shield.",
 	"advancements.story.obtain_armor.text": "Protect yourself with a piece of iron armor. $(br2)Have any type of $(l:misc/iron_ingot)iron$() armor in your inventory.",

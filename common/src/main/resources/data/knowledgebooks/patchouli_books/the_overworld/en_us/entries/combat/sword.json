@@ -11,27 +11,27 @@
 		{
 			"type": "crafting",
 			"recipe": "minecraft:wooden_sword",
-			"advancement": "minecraft:recipes/tools/wooden_sword"
+			"advancement": "minecraft:recipes/combat/wooden_sword"
 		},
 		{
 			"type": "crafting",
 			"recipe": "minecraft:stone_sword",
-			"advancement": "minecraft:recipes/tools/stone_sword"
+			"advancement": "minecraft:recipes/combat/stone_sword"
 		},
 		{
 			"type": "crafting",
 			"recipe": "minecraft:iron_sword",
-			"advancement": "minecraft:recipes/tools/iron_sword"
+			"advancement": "minecraft:recipes/combat/iron_sword"
 		},
 		{
 			"type": "crafting",
 			"recipe": "minecraft:golden_sword",
-			"advancement": "minecraft:recipes/tools/golden_sword"
+			"advancement": "minecraft:recipes/combat/golden_sword"
 		},
 		{
 			"type": "crafting",
 			"recipe": "minecraft:diamond_sword",
-			"advancement": "minecraft:recipes/tools/diamond_sword"
+			"advancement": "minecraft:recipes/combat/diamond_sword"
 		}
 	]
 }
