@@ -1,0 +1,40 @@
+{
+	"name": "item.minecraft.diamond",
+	"icon": "minecraft:diamond",
+	"category": "knowledgebooks:misc",
+	"turnin": "minecraft:story/mine_diamond",
+	"advancement": "minecraft:story/smelt_iron",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:diamond",
+			"text": "books.overworld.diamond.text"
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/mine_diamond",
+			"title": "advancements.story.mine_diamond.title",
+			"text": "advancements.story.mine_diamond.text"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:diamond"
+		},
+		{
+			"type": "smelting",
+			"recipe": "minecraft:diamond_from_smelting"
+		},
+		{
+			"type": "smelting",
+			"recipe": "minecraft:diamond_from_blasting",
+			"advancement": "minecraft:recipes/decorations/blast_furnace"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:diamond_block",
+				"knowledgebooks:diamond_ore"
+			]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "item.minecraft.stick",
+	"icon": "minecraft:stick",
+	"category": "knowledgebooks:misc",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:stick",
+			"text": "books.overworld.stick.text"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/misc/stick",
+			"recipe": "minecraft:stick"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:planks"
+			]
+		}
+	]
+}

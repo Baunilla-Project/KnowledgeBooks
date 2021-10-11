@@ -1,0 +1,25 @@
+{
+	"name": "block.minecraft.furnace",
+	"icon": "minecraft:furnace",
+	"category": "knowledgebooks:utility",
+	"advancement": "minecraft:story/root",
+	"pages": [
+		{
+			"type": "text",
+			"text": "books.overworld.furnace.text"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:furnace",
+			"advancement": "minecraft:recipes/decorations/furnace"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:smelting",
+				"knowledgebooks:blast_furnace",
+				"knowledgebooks:smoker"
+			]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "block.minecraft.clay",
+	"icon": "minecraft:clay",
+	"category": "knowledgebooks:building",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:clay",
+			"text": "books.overworld.clay.text"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/building_blocks/clay",
+			"recipe": "minecraft:clay"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:terracotta"
+			]
+		}
+	]
+}

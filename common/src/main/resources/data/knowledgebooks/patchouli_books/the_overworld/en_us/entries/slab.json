@@ -1,0 +1,12 @@
+{
+	"name": "books.overworld.slab.name",
+	"icon": "minecraft:cobblestone_slab",
+	"category": "knowledgebooks:building/types",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:cobblestone_slab",
+			"text": "books.overworld.slab.text"
+		}
+	]
+}

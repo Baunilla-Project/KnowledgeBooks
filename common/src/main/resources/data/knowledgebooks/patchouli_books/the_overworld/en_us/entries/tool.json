@@ -1,0 +1,26 @@
+{
+	"name": "books.overworld.tool.name",
+	"icon": "minecraft:wooden_pickaxe",
+	"category": "knowledgebooks:tools",
+	"sortnum": "-1",
+	"turnin": "minecraft:story/mine_stone",
+	"advancement": "minecraft:story/root",
+	"pages": [
+		{
+			"type": "text",
+			"text": "books.overworld.tool.text"
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/mine_stone",
+			"title": "advancements.story.mine_stone.title",
+			"text": "advancements.story.mine_stone.text"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:pickaxe"
+			]
+		}
+	]
+}

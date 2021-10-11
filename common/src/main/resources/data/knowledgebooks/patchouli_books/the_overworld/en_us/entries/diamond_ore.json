@@ -1,0 +1,19 @@
+{
+	"name": "block.minecraft.diamond_ore",
+	"icon": "minecraft:diamond_ore",
+	"category": "knowledgebooks:building",
+	"advancement": "minecraft:story/iron_tools",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:diamond_ore",
+			"text": "books.overworld.diamond_ore.text"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:diamond"
+			]
+		}
+	]
+}

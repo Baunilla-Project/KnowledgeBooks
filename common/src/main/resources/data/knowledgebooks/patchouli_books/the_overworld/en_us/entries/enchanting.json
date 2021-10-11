@@ -1,0 +1,30 @@
+{
+	"name": "books.overworld.enchanting.name",
+	"icon": "minecraft:enchanting_table",
+	"category": "knowledgebooks:gameplay",
+	"turnin": "minecraft:story/enchant_item",
+	"advancement": "minecraft:story/mine_diamond",
+	"pages": [
+		{
+			"type": "text",
+			"text": "books.overworld.enchanting.text"
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/enchant_item",
+			"title": "advancements.story.enchant_item.title",
+			"text": "advancements.story.enchant_item.text"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:enchanting_table",
+				"knowledgebooks:lapis_lazuli",
+				"knowledgebooks:book",
+				"knowledgebooks:bookshelf",
+				"knowledgebooks:anvil",
+				"knowledgebooks:grindstone"
+			]
+		}
+	]
+}

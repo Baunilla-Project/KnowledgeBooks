@@ -1,0 +1,25 @@
+{
+	"name": "block.minecraft.enchanting_table",
+	"icon": "minecraft:enchanting_table",
+	"category": "knowledgebooks:utility",
+	"advancement": "minecraft:story/mine_diamond",
+	"pages": [
+		{
+			"type": "text",
+			"text": "books.overworld.enchanting_table.text"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:enchanting_table",
+			"advancement": "minecraft:recipes/decorations/enchanting_table"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:smelting",
+				"knowledgebooks:blast_furnace",
+				"knowledgebooks:smoker"
+			]
+		}
+	]
+}
