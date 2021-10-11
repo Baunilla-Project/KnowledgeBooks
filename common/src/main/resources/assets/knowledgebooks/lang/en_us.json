@@ -220,7 +220,13 @@
 	"books.overworld.circuits.d_rand.multiblock.text": "Materials: Dropper, Hopper, Comparator, energy input (Lever)",
 	"books.overworld.barrel.text": "A $()barrel$() is a fisherman's job site block, used to store items. $(br)It functions like a single chest. Unlike chests, a barrel can be placed below a solid block and still be able to be opened.",
 	"books.overworld.blast_furnace.text": "A $(l)blast furnace$() is a block that $(l:gameplay/smelting)smelts$() ores, iron and gold $(l:combat/armors/armor)armor$() and $(l:tools/tool)tools$(), similar to a $(l:utility/furnace)furnace$(), but at twice the rate. It also serves as an armorer's job site block.",
-	
+	"books.overworld.chest.text": "A $(l)chest$() is a block that stores items and other blocks. $(br)A chest placed adjacent to another chest joins to create a large chest. A player can prevent this, and place two small chests side by side, by sneaking while placing the second chest or placing the second chest facing a different direction from the first chest. Alternatively, trapped chests do not combine with normal chests.",
+	"books.overworld.chest.gen.title": "Natural Generation",
+	"books.overworld.chest.gen.text": "Chests are naturally generated in dungeons, strongholds, jungle temples, desert temples, nether fortresses, villages, end cities, igloos, woodland mansions, shipwrecks, ocean ruins, buried treasure spaces, pillager outposts, bastion remnants and ruined portals.",
+	"books.overworld.crafting_table.text": "A $(l)crafting table$() is a utility block that allows the player to $(l:gameplay/crafting)craft$() a variety of blocks and items.",
+	"books.overworld.enchanting_table.text": "An $(l)enchanting table$() is a block that allows players to spend their experience point levels to $(l:gameplay/enchanting)enchant$() tools, weapons, books, armor, and certain other items.",
+	"books.overworld.furnace.text": "A $(l)furnace$() is a utility block used for the smelting of blocks and items.",
+
 	
 	"advancements.story.root.text": "The heart and story of the game. $(br2)Have a $(l:utility/crafting_table)crafting table$() in your inventory.",
 	"advancements.story.mine_stone.text": "Mine stone with your new $(l:tools/pickaxe)pickaxe$(). $(br2)Have $(l:building/cobblestone)cobblestone$() in your inventory.",

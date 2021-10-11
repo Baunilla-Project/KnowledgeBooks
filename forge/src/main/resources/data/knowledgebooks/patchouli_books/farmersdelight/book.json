@@ -1,7 +1,7 @@
 {
-	"name": "Homestead Cookbook",
-	"subtitle": "Farmer's Delight",
-	"landing_text": "This guide will teach you some of the basics of Farmer's Delight.",
+	"name": "books.farmersdelight.name",
+	"subtitle": "books.farmersdelight.subtitle",
+	"landing_text": "books.farmersdelight.landing_text",
 	"book_texture": "patchouli:textures/gui/book_green.png",
 	"model": "minecraft:knowledge_book",
 	"advancements_tab": "farmersdelight:main/root",
