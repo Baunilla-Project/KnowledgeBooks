@@ -1,0 +1,26 @@
+{
+	"name": "item.minecraft.trident",
+	"icon": "minecraft:trident",
+	"category": "knowledgebooks:combat",
+	"turnin": "minecraft:adventure/throw_trident",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:trident",
+			"link_recipe": true,
+			"text": "books.adventure.trident.text"
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:adventure/throw_trident",
+			"title": "advancements.adventure.throw_trident.title",
+			"text": "advancements.adventure.throw_trident.text"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:zombie"
+			]
+		}
+	]
+}

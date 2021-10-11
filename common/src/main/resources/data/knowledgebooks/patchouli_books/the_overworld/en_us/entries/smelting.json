@@ -1,0 +1,28 @@
+{
+	"name": "books.overworld.smelting.name",
+	"icon": "minecraft:furnace",
+	"category": "knowledgebooks:gameplay",
+	"turnin": "minecraft:story/smelt_iron",
+	"advancement": "minecraft:story/mine_stone",
+	"pages": [
+		{
+			"type": "text",
+			"text": "books.overworld.smelting.text"
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/smelt_iron",
+			"title": "advancements.story.smelt_iron.title",
+			"text": "advancements.story.smelt_iron.text"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:furnace",
+				"knowledgebooks:blast_furnace",
+				"knowledgebooks:smoker",
+				"knowledgebooks:campfire"
+			]
+		}
+	]
+}

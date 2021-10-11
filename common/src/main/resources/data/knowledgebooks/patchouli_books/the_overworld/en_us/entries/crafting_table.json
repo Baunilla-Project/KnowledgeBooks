@@ -1,0 +1,21 @@
+{
+	"name": "block.minecraft.crafting_table",
+	"icon": "minecraft:crafting_table",
+	"category": "knowledgebooks:utility",
+	"pages": [
+		{
+			"type": "text",
+			"text": "books.overworld.crafting_table.text"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:crafting_table"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:crafting"
+			]
+		}
+	]
+}

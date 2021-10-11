@@ -1,0 +1,22 @@
+{
+	"name": "item.minecraft.bow",
+	"icon": "minecraft:bow",
+	"category": "knowledgebooks:combat",
+	"pages": [
+		{
+			"type": "text",
+			"text": "books.adventure.bow.text"
+		},
+		{
+			"type": "crafting",
+			"advancement": "minecraft:recipes/combat/bow",
+			"recipe": "minecraft:bow"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:arrow"
+			]
+		}
+	]
+}

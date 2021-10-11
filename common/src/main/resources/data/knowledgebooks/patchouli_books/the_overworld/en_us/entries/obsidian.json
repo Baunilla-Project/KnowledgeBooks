@@ -1,0 +1,29 @@
+{
+	"name": "block.minecraft.obsidian",
+	"icon": "minecraft:obsidian",
+	"category": "knowledgebooks:building",
+	"advancement": "minecraft:story/smelt_iron",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:obsidian",
+			"text": "books.overworld.obsidian.text"
+		},
+		{
+			"type": "text",
+			"text": "books.overworld.obsidian.text2"
+		},
+		{
+			"type": "quest",
+			"trigger": "minecraft:story/form_obsidian",
+			"title": "advancements.story.form_obsidian.title",
+			"text": "advancements.story.form_obsidian.text"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:diamond"
+			]
+		}
+	]
+}

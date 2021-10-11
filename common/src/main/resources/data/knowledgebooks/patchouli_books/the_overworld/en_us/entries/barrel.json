@@ -1,0 +1,21 @@
+{
+	"name": "block.minecraft.barrel",
+	"icon": "minecraft:barrel",
+	"category": "knowledgebooks:utility",
+	"pages": [
+		{
+			"type": "text",
+			"text": "books.overworld.barrel.text"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:barrel"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:chest"
+			]
+		}
+	]
+}

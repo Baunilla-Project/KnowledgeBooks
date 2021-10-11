@@ -1,0 +1,19 @@
+{
+	"name": "block.minecraft.dirt",
+	"icon": "minecraft:dirt",
+	"category": "knowledgebooks:building",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:dirt",
+			"text": "books.overworld.dirt.tex"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:grass_block",
+				"knowledgebooks:coarse_dirt"
+			]
+		}
+	]
+}

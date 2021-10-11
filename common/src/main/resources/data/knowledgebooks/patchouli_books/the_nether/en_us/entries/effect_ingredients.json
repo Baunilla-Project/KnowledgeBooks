@@ -1,0 +1,17 @@
+{
+	"name": "books.nether.effect_ingredients.name",
+	"icon": "minecraft:rabbit_foot",
+	"category": "knowledgebooks:brewing",
+	"pages": [
+		{
+			"type": "text",
+			"text": "books.nether.effect_ingredients.text"
+		},
+		{
+			"type": "relations",
+			"entries": [
+				"knowledgebooks:nether_wart"
+			]
+		}
+	]
+}
