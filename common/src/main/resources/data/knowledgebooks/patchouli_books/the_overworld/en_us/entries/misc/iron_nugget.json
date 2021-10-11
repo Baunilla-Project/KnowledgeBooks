@@ -1,5 +1,5 @@
 {
-	"name": "Iron Nugget",
+	"name": "item.minecraft.iron_nugget",
 	"icon": "minecraft:iron_nugget",
 	"category": "knowledgebooks:misc",
 	"advancement": "minecraft:story/upgrade_tools",
@@ -7,7 +7,7 @@
 		{
 			"type": "spotlight",
 			"item": "minecraft:iron_nugget",
-			"text": "$(l)Iron nuggets$() are pieces of iron that can be obtained by smelting iron tools/weapons or iron/chainmail $(l:combat/armors/armor)armor$(). One iron nugget is worth one-ninth of an $(l:misc/iron_ingot)iron ingot$(). "
+			"text": "books.overworld.iron_nugget.text"
 		},
 		{
 			"type": "crafting",

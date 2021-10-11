@@ -1,6 +1,6 @@
 {
-	"name": "Tools",
-	"description": "Equipment that helps the player in many ways.",
+	"name": "books.overworld.tools.name",
+	"description": "books.overworld.tools.description",
 	"icon": "minecraft:wooden_pickaxe",
 	"sortnum": "3"
 }

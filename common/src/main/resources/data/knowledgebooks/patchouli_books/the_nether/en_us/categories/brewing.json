@@ -1,5 +1,5 @@
 {
-	"name": "Brewing",
-	"description": "$(l)Brewing$() is the process of creating potions, splash potions, and lingering potions by adding various ingredients to water bottles in a brewing stand.",
+	"name": "books.nether.brewing.name",
+	"description": "books.nether.brewing.description",
 	"icon": "minecraft:brewing_stand"
 }

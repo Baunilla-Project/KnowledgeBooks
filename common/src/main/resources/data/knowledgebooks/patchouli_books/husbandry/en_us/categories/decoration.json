@@ -1,5 +1,5 @@
 {
-	"name": "Decoration Blocks",
-	"description": "Blocks used mainly as decoration on buildings.",
+	"name": "books.husbandry.decoration.name",
+	"description": "books.husbandry.decoration.description",
 	"icon": "minecraft:red_mushroom_block"
 }

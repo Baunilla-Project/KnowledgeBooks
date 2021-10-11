@@ -1,12 +1,12 @@
 {
-	"name": "Clay",
+	"name": "block.minecraft.clay",
 	"icon": "minecraft:clay",
 	"category": "knowledgebooks:building",
 	"pages": [
 		{
 			"type": "spotlight",
 			"item": "minecraft:clay",
-			"text": "$(l)Clay$() is a block that can be $(l:gameplay/smelting)smelted$() to form $(l:building/terracotta)terracotta$() and is usually found in locations where $(l:building/sand)sand$() or $(l:building/dirt)dirt$() and water are present, most commonly appearing in shallow water, especially along the coast of island groups. When mined, four $(l:misc/clay_ball)clay balls$() will drop."
+			"text": "books.overworld.clay.text"
 		},
 		{
 			"type": "crafting",

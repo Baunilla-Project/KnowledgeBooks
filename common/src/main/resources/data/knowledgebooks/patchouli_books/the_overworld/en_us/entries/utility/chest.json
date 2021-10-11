@@ -1,11 +1,11 @@
 {
-	"name": "Chest",
+	"name": "block.minecraft.chest",
 	"icon": "minecraft:chest",
 	"category": "knowledgebooks:utility",
 	"pages": [
 		{
 			"type": "text",
-			"text": "A chest is a block that stores items and other blocks."
+			"text": "books.overworld.chest.text"
 		},
 		{
 			"type": "crafting",
@@ -13,13 +13,8 @@
 		},
 		{
 			"type": "text",
-			"title": "Natural Generation",
-			"text": "Chests are naturally generated in dungeons, strongholds, jungle temples, desert temples, nether fortresses, villages, end cities, igloos, woodland mansions, shipwrecks, ocean ruins, buried treasure spaces, pillager outposts, bastion remnants and ruined portals."
-		},
-		{
-			"type": "text",
-			"title": "Double Chest",
-			"text": "A chest placed adjacent to another chest joins to create a large chest. A player can prevent this, and place two small chests side by side, by sneaking while placing the second chest or placing the second chest facing a different direction from the first chest. Alternatively, trapped chests do not combine with normal chests."
+			"title": "books.overworld.chest.gen.title",
+			"text": "books.overworld.chest.gen.text"
 		}
 	]
 }

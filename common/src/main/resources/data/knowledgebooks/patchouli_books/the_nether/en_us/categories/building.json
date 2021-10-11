@@ -1,5 +1,5 @@
 {
-	"name": "Building Blocks",
-	"description": "Blocks used mainly used as a material for building.",
+	"name": "books.nether.building.name",
+	"description": "books.nether.building.description",
 	"icon": "minecraft:netherrack"
 }

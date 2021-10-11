@@ -1,12 +1,12 @@
 {
-	"name": "Axe",
+	"name": "books.overworld.axe.name",
 	"icon": "minecraft:iron_axe",
 	"category": "knowledgebooks:tools",
 	"advancement": "minecraft:story/root",
 	"pages": [
 		{
 			"type": "text",
-			"text": "An $(l)axe$() is a $(l:tools/tool)tool$() mainly used to hasten the breaking of wood-based blocks, remove the surface layer of certain blocks, and as a melee weapon. "
+			"text": "books.overworld.axe.text"
 		},
 		{
 			"type": "crafting",

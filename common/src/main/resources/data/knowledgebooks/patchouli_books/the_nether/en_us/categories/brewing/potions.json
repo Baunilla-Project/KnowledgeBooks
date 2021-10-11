@@ -1,6 +1,6 @@
 {
-	"name": "Potions",
-	"description": "",
+	"name": "books.nether.brewing.potions.name",
+	"description": "books.nether.brewing.potions.description",
 	"icon": "minecraft:potion",
 	"parent": "knowledgebooks:brewing"
 }

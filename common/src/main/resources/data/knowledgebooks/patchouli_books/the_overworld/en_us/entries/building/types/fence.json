@@ -1,5 +1,5 @@
 {
-	"name": "Fence and Gate",
+	"name": "books.overworld.fences.name",
 	"icon": "minecraft:oak_fence",
 	"category": "knowledgebooks:building/types",
 	"pages": [
@@ -7,13 +7,13 @@
 			"type": "spotlight",
 			"title": "Fence",
 			"item": "minecraft:oak_fence",
-			"text": "A $(l)fence$() is a barrier block that cannot normally be jumped over, similar to a $(l:building/types/wall)wall$(). Unlike a wall, a player (but not mobs) can see through the openings in a fence. "
+			"text": "books.overworld.fence.text"
 		},
 		{
 			"type": "spotlight",
 			"title": "Fence Gate",
 			"item": "minecraft:oak_fence_gate",
-			"text": "A $(l)fence gate$() is a block that shares the functions of both the $(building/types/door)door$() and the fence. "
+			"text": "books.overworld.fence_gate.text"
 		}
 	]
 }

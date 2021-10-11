@@ -1,11 +1,11 @@
 {
-	"name": "Ender Chest",
+	"name": "block.minecraft.ender_chest",
 	"icon": "minecraft:ender_chest",
 	"category": "knowledgebooks:utility",
 	"pages": [
 		{
 			"type": "text",
-			"text": "$(l)Ender chests$() are a type of chest that can store items, and whose contents can be accessed from anywhere in the world."
+			"text": "books.end.ender_chest.text"
 		},
 		{
 			"type": "crafting",
@@ -13,8 +13,8 @@
 		},
 		{
 			"type": "text",
-			"title": "Natural Generation",
-			"text": "An ender chest naturally generates alongside a chest in certain end city treasure rooms."
+			"title": "books.end.ender_chest.gen.title",
+			"text": "books.end.ender_chest.gen.text"
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"name": "Obsidian",
+	"name": "block.minecraft.obsidian",
 	"icon": "minecraft:obsidian",
 	"category": "knowledgebooks:building",
 	"advancement": "minecraft:story/smelt_iron",
@@ -7,22 +7,22 @@
 		{
 			"type": "spotlight",
 			"item": "minecraft:obsidian",
-			"text": "$(l)Obsidian$() is a dark purple block known for its high blast resistance and strength. It is most commonly found when water flows over lava. $(br2)Among other things, obsidian is used to construct the frames of the nether portal and $(l:utility/enchanting_table)enchanting tables$(). "
+			"text": "books.overworld.obsidian.text"
 		},
 		{
 			"type": "text",
-			"text": "Obsidian drops itself only when mined with a $(l:misc/diamond)diamond$() or netherite $(l:tools/pickaxe)pickaxe$(); otherwise, it drops nothing. "
+			"text": "books.overworld.obsidian.text2"
 		},
 		{
 			"type": "quest",
 			"trigger": "minecraft:story/form_obsidian",
-			"title": "Ice Bucket Challenge",
-			"text": "Obtain a block of obsidian. $(br2)Have a block of obsidian in your inventory."
+			"title": "advancements.story.form_obsidian.title",
+			"text": "advancements.story.form_obsidian.text"
 		},
 		{
 			"type": "relations",
 			"entries": [
-				"knowledgebooks:building/terracotta"
+				"knowledgebooks:misc/diamond"
 			]
 		}
 	]

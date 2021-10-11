@@ -1,6 +1,6 @@
 {
-	"name": "Gameplay",
-	"description": "Mechanics and ways how to play the game.",
+	"name": "books.husbandry.gameplay.name",
+	"description": "books.husbandry.gameplay.description",
 	"icon": "minecraft:writable_book",
 	"sortnum": "-1"
 }

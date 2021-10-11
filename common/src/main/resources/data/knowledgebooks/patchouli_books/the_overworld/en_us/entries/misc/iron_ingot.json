@@ -1,5 +1,5 @@
 {
-	"name": "Iron Ingot",
+	"name": "item.minecraft.iron_ingot",
 	"icon": "minecraft:iron_ingot",
 	"category": "knowledgebooks:misc",
 	"advancement": "minecraft:story/upgrade_tools",
@@ -7,7 +7,7 @@
 		{
 			"type": "spotlight",
 			"item": "minecraft:iron_ingot",
-			"text": "$(l)Iron ingots$() are versatile metal ingots used extensively in $(l:gameplay/crafting)crafting$(). "
+			"text": "books.overworld.iron_ingot.text"
 		},
 		{
 			"type": "crafting",

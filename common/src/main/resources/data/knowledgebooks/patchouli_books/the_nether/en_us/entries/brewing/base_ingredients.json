@@ -1,47 +1,41 @@
 {
-	"name": "Base Ingredients and Modifiers",
+	"name": "books.nether.base_ingredients.name",
 	"icon": "minecraft:nether_wart",
 	"category": "knowledgebooks:brewing",
 	"pages": [
 		{
 			"type": "text",
-			"text": "$(l)Base ingredients$() are ingredients that can be added directly to a water bottle and are the starting point of all potions. Nether wart is the most fundamental of the base ingredients, as it is required to make the vast majority of potions."
+			"text": "books.nether.base_ingredients.text"
 		},
 		{
 			"type": "spotlight",
 			"item": "minecraft:nether_wart",
-			"title": "Nether Wart",
-			"text": "Results into an Awkward Potion. Allows the creation of more complex potions."
+			"text": "books.nether.base_ingredients.nether_wart.text"
 		},
 		{
 			"type": "spotlight",
 			"item": "minecraft:redstone",
-			"title": "Redstone Dust",
-			"text": "Results into an Mundane Potion. Extends the duration of a potion."
+			"text": "books.nether.base_ingredients.redstone.text"
 		},
 		{
 			"type": "spotlight",
 			"item": "minecraft:glowstone_dust",
-			"title": "Glowstone Dust",
-			"text": "Results into an Thick Potion. Enhances the level of a potion. "
+			"text": "books.nether.base_ingredients.glowstone_dust.text "
 		},
 		{
 			"type": "spotlight",
 			"item": "minecraft:fermented_spider_eye",
-			"title": "Fermented Spider Eye",
-			"text": "A $(l)fermented spider eye$() changes a potion's base effect, often reversing it or producing a negative potion. Results into an Potion of Weakness. Corrupts the potion effect. (changes effect) "
+			"text": "books.nether.base_ingredients.fermented_spider_eye.text"
 		},
 		{
 			"type": "spotlight",
 			"item": "minecraft:gunpowder",
-			"title": "Gunpowder",
-			"text": "Turns a potion into a splash potion. Adding Dragon's Breath to a Water Bottle results into an Splash Water Bottle. "
+			"text": "books.nether.base_ingredients.gunpowder.text "
 		},{
 			"type": "spotlight",
 			"advancement": "minecraft:end/root",
 			"item": "minecraft:dragon_breath",
-			"title": "Dragon's Breath",
-			"text": "Turns a splash potion into a lingering potion. Adding Dragon's Breath to a Splash Water Bottle results into an Lingering Water Bottle. "
+			"text": "books.nether.base_ingredients.dragon_breath.text"
 		},
 		{
 			"type": "relations",

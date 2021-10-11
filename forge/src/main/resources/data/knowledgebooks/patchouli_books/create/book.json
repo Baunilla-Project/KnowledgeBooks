@@ -1,8 +1,9 @@
 {
-	"name": "Mechanical Engineering",
-	"subtitle": "Create",
-	"landing_text": "",
+	"name": "books.create.name",
+	"subtitle": "books.create.subtitle",
+	"landing_text": "books.create.landing_text",
 	"book_texture": "patchouli:textures/gui/book_green.png",
 	"model": "minecraft:knowledge_book",
-	"advancements_tab": "create:root"
+	"advancements_tab": "create:root",
+	"i18n": true
 }

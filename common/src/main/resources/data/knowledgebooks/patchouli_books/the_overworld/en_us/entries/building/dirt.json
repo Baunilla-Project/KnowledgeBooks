@@ -1,12 +1,12 @@
 {
-	"name": "Dirt",
+	"name": "block.minecraft.dirt",
 	"icon": "minecraft:dirt",
 	"category": "knowledgebooks:building",
 	"pages": [
 		{
 			"type": "spotlight",
 			"item": "minecraft:dirt",
-			"text": "$(l)Dirt$() is a block found abundantly in most biomes under a layer of $(l:building/grass_block)grass blocks$() at the top of the Overworld. "
+			"text": "books.overworld.dirt.text"
 		},
 		{
 			"type": "relations",

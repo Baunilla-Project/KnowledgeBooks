@@ -6,7 +6,7 @@
 		{
 			"type": "spotlight",
 			"item": "minecraft:cobblestone_wall",
-			"text": "$(l)Slabs$() are half-height versions of their respective blocks. "
+			"text": "books.overworld.wall.text"
 		}
 	]
 }

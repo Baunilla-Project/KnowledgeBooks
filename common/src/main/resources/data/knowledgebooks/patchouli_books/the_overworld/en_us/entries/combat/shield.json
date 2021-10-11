@@ -1,5 +1,5 @@
 {
-	"name": "Shield",
+	"name": "item.minecraft.shield",
 	"icon": "minecraft:shield",
 	"category": "knowledgebooks:combat",
 	"turnin": "minecraft:story/deflect_arrow",
@@ -7,7 +7,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "A $(l)shield$() is a tool used for protecting the player against attacks. "
+			"text": "books.overworld.shield.text"
 		},
 		{
 			"type": "crafting",
@@ -17,8 +17,8 @@
 			"type": "quest",
 			"trigger": "minecraft:story/deflect_arrow",
 			"advancement": "minecraft:story/smelt_iron",
-			"title": "Not Today, Thank You",
-			"text": "Block a projectile using your shield. $(br2)Block any projectile with a shield. "
+			"title": "advancements.story.deflect_arrow.title",
+			"text": "advancements.story.deflect_arrow.text"
 		}
 	]
 }

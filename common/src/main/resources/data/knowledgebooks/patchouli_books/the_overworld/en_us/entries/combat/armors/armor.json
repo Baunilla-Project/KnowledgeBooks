@@ -1,5 +1,5 @@
 {
-	"name": "Armor",
+	"name": "books.overworld.armor.name",
 	"icon": "minecraft:iron_chestplate",
 	"category": "knowledgebooks:combat/armors",
 	"sortnum": "-1",
@@ -8,21 +8,21 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "Armor pieces include several different tiers of $(l:combat/armors/helmet)helmets$(), $(l:combat/armors/chestplate)chestplates$(), $(l:combat/armors/leggings)leggings$(), and $(l:combat/armors/boot)boots$(), which can each be placed in designated armor slots of a player's inventory for use."
+			"text": "books.overworld.armor.text"
 		},
 		{
 			"type": "quest",
 			"trigger": "minecraft:story/obtain_armor",
 			"advancement": "minecraft:story/upgrade_tools",
-			"title": "Suit Up",
-			"text": "Protect yourself with a piece of iron armor. $(br2)Have any type of $(l:misc/iron_ingot)iron$() armor in your inventory."
+			"title": "advancements.story.obtain_armor.title",
+			"text": "advancements.story.obtain_armor.text"
 		},
 		{
 			"type": "quest",
 			"trigger": "minecraft:story/shiny_gear",
 			"advancement": "minecraft:story/iron_tools",
-			"title": "Cover Me With Diamonds",
-			"text": "Diamond armor saves lives. $(br2)Have any type of $(l:misc/diamond)diamond$() armor in your inventory."
+			"title": "advancements.story.shiny_gear.title",
+			"text": "advancements.story.shiny_gear.text"
 		}
 	]
 }

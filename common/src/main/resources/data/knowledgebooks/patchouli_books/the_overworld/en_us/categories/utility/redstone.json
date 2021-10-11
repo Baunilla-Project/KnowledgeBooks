@@ -1,6 +1,6 @@
 {
-	"name": "Redstone Components",
-	"description": "Redstone components are the blocks used to build redstone structures. Redstone components include power components, transmission components, and mechanism components. ",
+	"name": "books.overworld.utility.redstone.name",
+	"description": "books.overworld.utility.redstone.description",
 	"icon": "minecraft:dispenser",
 	"parent": "knowledgebooks:utility"
 }

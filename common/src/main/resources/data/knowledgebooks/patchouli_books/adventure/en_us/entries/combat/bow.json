@@ -1,11 +1,11 @@
 {
-	"name": "Bow",
+	"name": "item.minecraft.bow",
 	"icon": "minecraft:bow",
 	"category": "knowledgebooks:combat",
 	"pages": [
 		{
 			"type": "text",
-			"text": "A $(l)bow$() is a ranged weapon that shoots $(l:combat/arrow)arrows$(). "
+			"text": "books.adventure.bow.text"
 		},
 		{
 			"type": "crafting",

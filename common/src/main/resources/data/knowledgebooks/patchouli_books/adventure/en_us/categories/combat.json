@@ -1,6 +1,5 @@
 {
-	"name": "Combat",
-	"description": "Weapons are items that can be used to damage entities. They can also be enchanted to deal more damage or add other benefits. ",
-	"icon": "minecraft:bow",
-	"sortnum": "1"
+	"name": "books.adventure.combat.name",
+	"description": "books.adventure.combat.description",
+	"icon": "minecraft:bow"
 }

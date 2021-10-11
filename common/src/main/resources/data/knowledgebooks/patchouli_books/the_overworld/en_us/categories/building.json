@@ -1,6 +1,6 @@
 {
-	"name": "Building Blocks",
-	"description": "Blocks used mainly used as a material for building.",
+	"name": "books.overworld.building.name",
+	"description": "books.overworld.building.description",
 	"icon": "minecraft:stone",
 	"sortnum": "2"
 }

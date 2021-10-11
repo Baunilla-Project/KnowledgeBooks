@@ -1,6 +1,6 @@
 {
-	"name": "Combat",
-	"description": "Weapons are items that can be used to damage entities. They can also be enchanted to deal more damage or add other benefits. ",
+	"name": "books.overworld.combat.name",
+	"description": "books.overworld.combat.description",
 	"icon": "minecraft:wooden_sword",
 	"sortnum": "4"
 }

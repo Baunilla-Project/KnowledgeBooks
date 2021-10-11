@@ -1,8 +1,9 @@
 {
-	"name": "Explorer's Guide",
-	"subtitle": "Adventure and combat",
-	"landing_text": "Learn the best way to protect yourself or deal some damage while finding new places.",
+	"name": "books.adventure.name",
+	"subtitle": "books.adventure.subtitle",
+	"landing_text": "books.adventure.landing_text",
 	"book_texture": "knowledgebooks:textures/gui/book/combat_book.png",
 	"model": "knowledgebooks:adventure_book",
-	"advancements_tab": "minecraft:adventure/root"
+	"advancements_tab": "minecraft:adventure/root",
+	"i18n": true
 }

@@ -1,5 +1,5 @@
 {
-	"name": "Food",
-	"description": "",
+	"name": "books.husbandry.food.name",
+	"description": "books.husbandry.food.description",
 	"icon": "minecraft:bread"
 }

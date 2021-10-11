@@ -1,11 +1,11 @@
 {
-	"name": "Crafting Table",
+	"name": "block.minecraft.crafting_table",
 	"icon": "minecraft:crafting_table",
 	"category": "knowledgebooks:utility",
 	"pages": [
 		{
 			"type": "text",
-			"text": "A $(l)crafting table$() is a utility block that allows the player to $(l:gameplay/crafting)craft$() a variety of blocks and items. "
+			"text": "books.overworld.crafting_table.text"
 		},
 		{
 			"type": "crafting",

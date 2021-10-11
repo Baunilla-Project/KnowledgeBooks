@@ -1,5 +1,5 @@
 {
-	"name": "Boots",
+	"name": "books.overworld.boots.name",
 	"icon": "minecraft:leather_boots",
 	"category": "knowledgebooks:combat/armors",
 	"sortnum": "4",
@@ -7,7 +7,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "$(l)Boots$() are a type of $(l:combat/armors/armor)armor$() that covers the feet of the player. "
+			"text": "books.overworld.boots.text"
 		},
 		{
 			"type": "crafting",

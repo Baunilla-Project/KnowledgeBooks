@@ -1,12 +1,12 @@
 {
-	"name": "Enchanting Table",
+	"name": "block.minecraft.enchanting_table",
 	"icon": "minecraft:enchanting_table",
 	"category": "knowledgebooks:utility",
 	"advancement": "minecraft:story/mine_diamond",
 	"pages": [
 		{
 			"type": "text",
-			"text": "An $(l)enchanting table$() is a block that allows players to spend their experience point levels to $(l:gameplay/enchanting)enchant$() tools, weapons, books, armor, and certain other items. "
+			"text": "books.overworld.enchanting_table.text"
 		},
 		{
 			"type": "crafting",

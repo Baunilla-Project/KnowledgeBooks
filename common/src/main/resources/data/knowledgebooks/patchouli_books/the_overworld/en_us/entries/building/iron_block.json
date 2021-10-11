@@ -1,5 +1,5 @@
 {
-	"name": "Block of Iron",
+	"name": "block.minecraft.iron_block",
 	"icon": "minecraft:iron_block",
 	"category": "knowledgebooks:building",
 	"advancement": "minecraft:story/upgrade_tools",
@@ -7,7 +7,7 @@
 		{
 			"type": "spotlight",
 			"item": "minecraft:iron_block",
-			"text": "A $(l)block of iron$() is a precious metal block equivalent to nine $(l:misc/iron_ingot)iron ingots$(). "
+			"text": "books.overworld.iron_block.text"
 		},
 		{
 			"type": "crafting",

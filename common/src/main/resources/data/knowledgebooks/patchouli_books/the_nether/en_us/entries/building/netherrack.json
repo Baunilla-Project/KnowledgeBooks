@@ -1,5 +1,5 @@
 {
-	"name": "Netherrack",
+	"name": "block.minecraft.netherrack",
 	"icon": "minecraft:netherrack",
 	"category": "knowledgebooks:building",
 	"pages": [
@@ -7,7 +7,7 @@
 			"type": "spotlight",
 			"item": "minecraft:netherrack",
 			"link_recipe ": true,
-			"text": "$(li)Is the most common rock-like block found in ehe Nether. $(li)When netherrack's top is lit on fire, the fire burns indefinitely."
+			"text": "books.nether.netherrack.text"
 		},
 		{
 			"type": "relations",

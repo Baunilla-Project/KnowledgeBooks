@@ -1,6 +1,6 @@
 {
-	"name": "Miscellaneous",
-	"description": "Items used for many purposes.",
+	"name": "books.overworld.misc.name",
+	"description": "books.overworld.misc.description",
 	"icon": "minecraft:stick",
 	"sortnum": "4"
 }

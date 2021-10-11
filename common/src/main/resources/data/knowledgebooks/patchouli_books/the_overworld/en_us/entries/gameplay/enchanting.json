@@ -1,5 +1,5 @@
 {
-	"name": "Enchanting",
+	"name": "books.overworld.enchanting.name",
 	"icon": "minecraft:enchanting_table",
 	"category": "knowledgebooks:gameplay",
 	"turnin": "minecraft:story/enchant_item",
@@ -7,13 +7,13 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "$(l)Enchanting$() is a mechanic that augments $(l:combat/armors)armor$(), $(l:tools)tools$(), $(l:combat)weapons$(), and $(l:misc/book)books$() with one or more of a variety of \"enchantments\" that improve an item's existing abilities or imbue them with additional abilities and uses. A special \"glint\" animation appears on items that are enchanted. "
+			"text": "books.overworld.enchanting.text"
 		},
 		{
 			"type": "quest",
 			"trigger": "minecraft:story/enchant_item",
-			"title": "Enchanter",
-			"text": "$(l)Enchant$() an item at an $(l:utility/enchanting_table)Enchantment Table$()  $(br2)Insert an item in an enchanting table, then apply an enchantment. "
+			"title": "advancements.story.enchant_item.title",
+			"text": "advancements.story.enchant_item.text"
 		},
 		{
 			"type": "relations",

@@ -1,5 +1,5 @@
 {
-	"name": "Mobs",
-	"description": "Mobs from The End",
+	"name": "books.end.mobs.name",
+	"description": "books.end.mobs.description",
 	"icon": "minecraft:player_head{SkullOwner:\"MHF_Enderman\"}"
 }
